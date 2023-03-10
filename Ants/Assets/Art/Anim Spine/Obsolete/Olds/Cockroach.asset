@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9fa73575d730d48b960dd5c0d588a2, type: 3}
+  m_Name: Cockroach
+  m_EditorClassIdentifier: 
+  _references:
+    array:
+    - _type: 2
+      _referenceAsset: {fileID: 11400000, guid: d5ee537c1319e4943a989fd43064e797,
+        type: 2}
+      _timeSacale: 1
+      _isLoop: 0
+    - _type: 3
+      _referenceAsset: {fileID: 11400000, guid: 645bbc35bbfda9c47862450ff0666649,
+        type: 2}
+      _timeSacale: 1
+      _isLoop: 0
+    - _type: 14
+      _referenceAsset: {fileID: 11400000, guid: 48ee08207a8b4c441a04148a427302f1,
+        type: 2}
+      _timeSacale: 1
+      _isLoop: 0
+    - _type: 26
+      _referenceAsset: {fileID: 11400000, guid: 71c1845de8193e24db155ad11460ab7d,
+        type: 2}
+      _timeSacale: 1
+      _isLoop: 0

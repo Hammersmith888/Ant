@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c92204939284374ab6917c8035167cf, type: 3}
+  m_Name: 1 Leaf
+  m_EditorClassIdentifier: 
+  type: 9
+  isBig: 0
+  price: 50
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: 1349c7425f726804fa47ce1f51153b8e, type: 2}
+  prefab: {fileID: 2122585162903616065, guid: 66eb7d5f3a162e545a860bd6f1f99451, type: 3}
+  upgrades: {fileID: 0}
+  decorType: 9

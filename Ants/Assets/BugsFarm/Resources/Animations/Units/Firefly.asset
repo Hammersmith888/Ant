@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d902df55738ae8488860c679249078a, type: 3}
+  m_Name: Firefly
+  m_EditorClassIdentifier: 
+  _typeName: Firefly
+  _animations:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 0200000003000000050000000e0000001a0000001e000000280000002c000000040000001800000015000000
+    _keys: 0200000003000000050000000e0000001a0000001e000000280000002c000000040000001800000015000000
+    _values:
+    - _referenceAsset: {fileID: 11400000, guid: b3443aa9b20e8344ebfff888b6f93e60,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 6fb6bddfd0fab134aaecd62c8594e3d5,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 48f6ece29bd222745b5d87a47c6b4f66,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: abefb631f8b60b64c843a65a033eb888,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: ba58c64d02c9f244daa5be3f2589415d,
+        type: 2}
+      _timeScale: 1.25
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: e5f1364710d6efc4bab4783ded927e32,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 689b9f4e90cc0b54cb6615cb40326c0c,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 8424c0dc7cba61143a71d404a7c4c546,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: d4728fdabed71894d959f632aca19a88,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: ba58c64d02c9f244daa5be3f2589415d,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 8a555825edb57554b895d9660f6aaf29,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 0

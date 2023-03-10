@@ -1,0 +1,13 @@
+
+AntLarva_Stage_2.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 2
+  size: 48, 50
+  orig: 48, 50
+  offset: 0, 0
+  index: -1

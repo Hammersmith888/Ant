@@ -1,0 +1,83 @@
+
+Жук колорадский.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Башка
+  rotate: false
+  xy: 75, 91
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+Глаза
+  rotate: false
+  xy: 2, 45
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+Нога1
+  rotate: true
+  xy: 21, 8
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Нога2
+  rotate: true
+  xy: 2, 2
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+Нога3
+  rotate: false
+  xy: 65, 39
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Нога4
+  rotate: true
+  xy: 43, 31
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+Нога5
+  rotate: false
+  xy: 65, 16
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+Нога6
+  rotate: false
+  xy: 95, 39
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+Туловище
+  rotate: false
+  xy: 2, 75
+  size: 71, 57
+  orig: 71, 57
+  offset: 0, 0
+  index: -1
+Усики
+  rotate: false
+  xy: 75, 61
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+веко
+  rotate: false
+  xy: 42, 9
+  size: 21, 20
+  orig: 24, 23
+  offset: 2, 1
+  index: -1

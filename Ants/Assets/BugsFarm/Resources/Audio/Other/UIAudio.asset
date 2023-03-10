@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd83bf3a19b140c7b15c326e608add11, type: 3}
+  m_Name: UIAudio
+  m_EditorClassIdentifier: 
+  _modelID: UIAudio
+  _audioClipsConverterList:
+  - {fileID: 8300000, guid: b5c3b0f549fcf404aabf6cdbf9d42375, type: 3}
+  - {fileID: 8300000, guid: 696c002ba6b9bff4fa29f692097f3ba4, type: 3}
+  - {fileID: 8300000, guid: 1692ab0e8669ee043babc22b807cf7f4, type: 3}
+  - {fileID: 8300000, guid: 1cbfb79af9508a747b994254d3fbbaa2, type: 3}
+  - {fileID: 8300000, guid: c028df5b43b729c4897920d69265457f, type: 3}
+  _audioStorage:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - TabSwitch
+    - ChestOpen
+    - Currency
+    - PopupTapped1
+    - PopupTapped2
+    _keys:
+    - TabSwitch
+    - ChestOpen
+    - Currency
+    - PopupTapped1
+    - PopupTapped2
+    _values:
+    - Audio/Other/UIClips/UIBottom_TabSwitch
+    - Audio/Other/UIClips/UIChest_ChestOpen
+    - Audio/Other/UIClips/Currency
+    - Audio/Other/UIClips/PopupTapped1
+    - Audio/Other/UIClips/PopupTapped2

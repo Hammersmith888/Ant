@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f623bc4c3fe46c4480a96774308a67d, type: 3}
+  m_Name: 7 Apple
+  m_EditorClassIdentifier: 
+  type: 8
+  isBig: 0
+  price: 1200
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: 22da10ccefabd8f49b0181d8cf8d7a48, type: 2}
+  prefab: {fileID: 8329520892540931510, guid: 8cb6eb4cb4dc3eb489c6796f666d1128, type: 3}
+  upgrades: {fileID: 0}
+  foodType: 7
+  isRestockable: 0
+  stages:
+  - quantity: 450
+    sprite: {fileID: 21300000, guid: c8a9e44ded2d58a468dda033d5d2b830, type: 3}
+  - quantity: 300
+    sprite: {fileID: 21300000, guid: 4a7c373d9b381a04094f2b776bec6f03, type: 3}
+  - quantity: 150
+    sprite: {fileID: 21300000, guid: 763c10f376bb2d340963d8bde809e8e0, type: 3}
+  garbageAmount: 15

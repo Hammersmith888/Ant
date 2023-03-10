@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4621433201003247324
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4628758078451965291}
+  - component: {fileID: 7829175845243699949}
+  m_Layer: 0
+  m_Name: UnitsConfigImporter
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4628758078451965291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4621433201003247324}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7829175845243699949
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4621433201003247324}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ccca7c62ce964c349e061b57e582ba63, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _sheets:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - UnitStatModels
+    - UnitUpgradeModels
+    - UnitBirthModels
+    - UnitModels
+    _keys:
+    - UnitStatModels
+    - UnitUpgradeModels
+    - UnitBirthModels
+    - UnitModels
+    _values:
+    - Gid: 199599901
+      TableID: 1V0kTGJr4C4F2H3kLYe7hy5ICi0gfeF46UJ4v2nWac-4
+    - Gid: 464299980
+      TableID: 1V0kTGJr4C4F2H3kLYe7hy5ICi0gfeF46UJ4v2nWac-4
+    - Gid: 1460551030
+      TableID: 1V0kTGJr4C4F2H3kLYe7hy5ICi0gfeF46UJ4v2nWac-4
+    - Gid: 758680419
+      TableID: 1V0kTGJr4C4F2H3kLYe7hy5ICi0gfeF46UJ4v2nWac-4
+  _prettyPrint: 1

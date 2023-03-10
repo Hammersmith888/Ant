@@ -1,0 +1,27 @@
+
+Flower2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Цветок2_1
+  rotate: true
+  xy: 2, 102
+  size: 49, 68
+  orig: 133, 212
+  offset: 33, 1
+  index: -1
+Цветок2_2
+  rotate: true
+  xy: 72, 69
+  size: 82, 147
+  orig: 133, 212
+  offset: 32, 0
+  index: -1
+Цветок2_3
+  rotate: true
+  xy: 2, 2
+  size: 65, 198
+  orig: 133, 212
+  offset: 30, 4
+  index: -1

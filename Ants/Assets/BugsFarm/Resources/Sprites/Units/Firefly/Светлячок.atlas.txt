@@ -1,0 +1,118 @@
+
+Светлячок.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 144, 3
+  size: 212, 123
+  orig: 212, 123
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 841, 23
+  size: 50, 50
+  orig: 52, 52
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: true
+  xy: 601, 5
+  size: 39, 38
+  orig: 41, 40
+  offset: 1, 1
+  index: -1
+eyelid
+  rotate: false
+  xy: 833, 75
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 707, 11
+  size: 33, 48
+  orig: 35, 50
+  offset: 1, 1
+  index: -1
+hair2
+  rotate: true
+  xy: 757, 4
+  size: 43, 56
+  orig: 45, 58
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 722, 49
+  size: 77, 48
+  orig: 79, 50
+  offset: 1, 1
+  index: -1
+leg1
+  rotate: true
+  xy: 505, 36
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+leg2
+  rotate: false
+  xy: 505, 2
+  size: 34, 32
+  orig: 36, 34
+  offset: 1, 1
+  index: -1
+leg3
+  rotate: false
+  xy: 772, 64
+  size: 59, 62
+  orig: 61, 64
+  offset: 1, 1
+  index: -1
+leg4
+  rotate: false
+  xy: 815, 8
+  size: 24, 54
+  orig: 26, 56
+  offset: 1, 1
+  index: -1
+leg5
+  rotate: true
+  xy: 641, 6
+  size: 38, 64
+  orig: 40, 66
+  offset: 1, 1
+  index: -1
+leg6
+  rotate: true
+  xy: 541, 7
+  size: 27, 58
+  orig: 29, 60
+  offset: 1, 1
+  index: -1
+wing1
+  rotate: false
+  xy: 2, 2
+  size: 140, 124
+  orig: 142, 126
+  offset: 1, 1
+  index: -1
+wing2
+  rotate: true
+  xy: 358, 3
+  size: 123, 145
+  orig: 125, 147
+  offset: 1, 1
+  index: -1
+wing3
+  rotate: false
+  xy: 571, 46
+  size: 149, 80
+  orig: 151, 82
+  offset: 1, 1
+  index: -1

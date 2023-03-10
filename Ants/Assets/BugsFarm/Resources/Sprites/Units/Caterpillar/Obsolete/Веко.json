@@ -1,0 +1,40 @@
+{ "skeleton": { "images": "/h/Работа/BugsFarm/Анимации/Гусеница босс/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Ножка задняя", "bone": "root", "attachment": "Ножка задняя" },
+	{ "name": "тело", "bone": "root", "attachment": "тело" },
+	{ "name": "ножка3", "bone": "root", "attachment": "ножка3" },
+	{ "name": "ножка2", "bone": "root", "attachment": "ножка2" },
+	{ "name": "ножка1", "bone": "root", "attachment": "ножка1" },
+	{ "name": "Голова", "bone": "root", "attachment": "Голова" },
+	{ "name": "Веко", "bone": "root", "attachment": "Веко" }
+],
+"skins": {
+	"default": {
+		"Ножка задняя": {
+			"Ножка задняя": { "x": 60, "y": -122, "width": 12, "height": 14 }
+		},
+		"тело": {
+			"тело": { "x": 130.5, "y": -64.5, "width": 227, "height": 131 }
+		},
+		"ножка3": {
+			"ножка3": { "x": 115, "y": -123.5, "width": 24, "height": 17 }
+		},
+		"ножка2": {
+			"ножка2": { "x": 88, "y": -123, "width": 16, "height": 16 }
+		},
+		"ножка1": {
+			"ножка1": { "x": 71, "y": -123.5, "width": 14, "height": 15 }
+		},
+		"Голова": {
+			"Голова": { "x": 21.5, "y": -95, "width": 45, "height": 64 }
+		},
+		"Веко": {
+			"Веко": { "x": 22.5, "y": -101, "width": 33, "height": 26 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

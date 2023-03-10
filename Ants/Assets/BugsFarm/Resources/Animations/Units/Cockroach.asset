@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d902df55738ae8488860c679249078a, type: 3}
+  m_Name: Cockroach
+  m_EditorClassIdentifier: 
+  _typeName: Cockroach
+  _animations:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 02000000030000000e0000001a00000015000000
+    _keys: 02000000030000000e0000001a00000015000000
+    _values:
+    - _referenceAsset: {fileID: 11400000, guid: d5ee537c1319e4943a989fd43064e797,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 645bbc35bbfda9c47862450ff0666649,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 48ee08207a8b4c441a04148a427302f1,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 71c1845de8193e24db155ad11460ab7d,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: af0f3e8467309844f906ca62ad3df014,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0

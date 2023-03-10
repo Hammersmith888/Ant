@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: 24e66423ad2c3e5418aedce81d1d9f1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2779781025311814561
+    second: 2.Vines_00_0
+  - first:
+      213: -3285023657234766901
+    second: 2.Vines_00_1
+  - first:
+      213: 618618503201132150
+    second: 2.Vines_00_2
+  - first:
+      213: -2495016987689132357
+    second: 2.Vines_00_3
+  - first:
+      213: -9174391914351811708
+    second: 2.Vines_00_4
+  - first:
+      213: -1416280108323917548
+    second: 2.Vines_00_5
+  - first:
+      213: 7453410844091783046
+    second: 2.Vines_00_6
+  - first:
+      213: -2802152649624974812
+    second: 2.Vines_00_7
+  - first:
+      213: 5228169627370159773
+    second: 2.Vines_00_8
+  - first:
+      213: -1278791180772987016
+    second: 2.Vines_01_0
+  - first:
+      213: 2823713875609981844
+    second: 2.Vines_01_1
+  - first:
+      213: -3609772481551143440
+    second: 2.Vines_01_2
+  - first:
+      213: -3046298899409130511
+    second: 2.Vines_01_3
+  - first:
+      213: -2183504337413939968
+    second: 2.Vines_01_4
+  - first:
+      213: 5297436636406000249
+    second: 2.Vines_01_5
+  - first:
+      213: -3572857085478067163
+    second: 2.Vines_01_6
+  - first:
+      213: -2148643803652988652
+    second: 2.Vines_01_7
+  - first:
+      213: 4854525438719710266
+    second: 2.Vines_01_8
+  - first:
+      213: 4241175612989393491
+    second: 2.Vines_01_9
+  - first:
+      213: 6146413641255868442
+    second: 2.Vines_01_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 512
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 512
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 512
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2.Vines_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 198
+        width: 512
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 23, y: 0, z: 23, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87faf184232d04ee0800000000000000
+      internalID: -1278791180772987016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Vines_01_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 512
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 27, y: 0, z: 24, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49313172fc8df2720800000000000000
+      internalID: 2823713875609981844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Vines_01_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 512
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 12, y: 0, z: 8, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fde92dad0387edc0800000000000000
+      internalID: -3609772481551143440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Vines_01_3
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 6
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb2e0d7a4f59b5d0800000000000000
+      internalID: -3046298899409130511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Vines_01_4
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 12
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ddae2bf52a2b1e0800000000000000
+      internalID: -2183504337413939968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Vines_01_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 9
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aae15cd86448940800000000000000
+      internalID: 5297436636406000249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Vines_01_6
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 10
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524a7da1969aa6ec0800000000000000
+      internalID: -3572857085478067163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Vines_01_7
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 14
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4116b6638db7e22e0800000000000000
+      internalID: -2148643803652988652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Vines_01_8
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 15
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a345cf78a2dbe5340800000000000000
+      internalID: 4854525438719710266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Vines_01_9
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a4842dfbeabda30800000000000000
+      internalID: 4241175612989393491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2.Vines_01_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 12
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18dba144a27c4550800000000000000
+      internalID: 6146413641255868442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2.Vines_01_1: 2823713875609981844
+      2.Vines_01_10: 6146413641255868442
+      2.Vines_01_9: 4241175612989393491
+      2.Vines_01_2: -3609772481551143440
+      2.Vines_01_5: 5297436636406000249
+      2.Vines_01_8: 4854525438719710266
+      2.Vines_01_6: -3572857085478067163
+      2.Vines_01_3: -3046298899409130511
+      2.Vines_01_7: -2148643803652988652
+      2.Vines_01_4: -2183504337413939968
+      2.Vines_01_0: -1278791180772987016
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

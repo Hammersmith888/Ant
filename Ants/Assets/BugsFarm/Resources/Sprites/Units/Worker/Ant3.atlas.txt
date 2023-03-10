@@ -1,0 +1,321 @@
+
+Ant3.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Брюшко
+  rotate: false
+  xy: 243, 2
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+Веко_лев
+  rotate: false
+  xy: 593, 19
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Веко_прав
+  rotate: false
+  xy: 593, 19
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+Глаз_лев
+  rotate: false
+  xy: 652, 33
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Глаз_прав
+  rotate: false
+  xy: 652, 33
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+Голова
+  rotate: true
+  xy: 467, 76
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+Зрачок_лев
+  rotate: false
+  xy: 229, 32
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+Зрачок_прав
+  rotate: true
+  xy: 593, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Кирка
+  rotate: true
+  xy: 65, 29
+  size: 97, 134
+  orig: 97, 134
+  offset: 0, 0
+  index: -1
+Кисть_лев
+  rotate: true
+  xy: 644, 96
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+Кисть_прав
+  rotate: true
+  xy: 638, 4
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+Кусочек_виноград
+  rotate: false
+  xy: 607, 57
+  size: 29, 30
+  orig: 32, 31
+  offset: 2, 1
+  index: -1
+Кусочек_льна
+  rotate: true
+  xy: 525, 86
+  size: 40, 31
+  orig: 43, 35
+  offset: 2, 2
+  index: -1
+Кусочек_малины
+  rotate: true
+  xy: 616, 96
+  size: 30, 26
+  orig: 32, 28
+  offset: 1, 1
+  index: -1
+Кусочек_пшеницы
+  rotate: true
+  xy: 511, 52
+  size: 22, 20
+  orig: 26, 23
+  offset: 2, 2
+  index: -1
+Кусочек_семечки
+  rotate: false
+  xy: 665, 65
+  size: 23, 29
+  orig: 40, 33
+  offset: 9, 2
+  index: -1
+Кусочек_фундук
+  rotate: true
+  xy: 681, 36
+  size: 27, 25
+  orig: 43, 40
+  offset: 8, 7
+  index: -1
+Кусочек_яблока
+  rotate: true
+  xy: 555, 53
+  size: 31, 29
+  orig: 40, 37
+  offset: 5, 4
+  index: -1
+Лейка
+  rotate: false
+  xy: 305, 51
+  size: 131, 75
+  orig: 131, 75
+  offset: 0, 0
+  index: -1
+Личинка_стадия_1
+  rotate: true
+  xy: 403, 5
+  size: 44, 50
+  orig: 48, 50
+  offset: 1, 0
+  index: -1
+Личинка_стадия_2
+  rotate: false
+  xy: 228, 49
+  size: 57, 77
+  orig: 57, 80
+  offset: 0, 0
+  index: -1
+Личинка_стадия_3
+  rotate: false
+  xy: 2, 22
+  size: 61, 104
+  orig: 64, 105
+  offset: 3, 0
+  index: -1
+Лопата
+  rotate: true
+  xy: 455, 7
+  size: 43, 136
+  orig: 43, 136
+  offset: 0, 0
+  index: -1
+Лопата с землёй
+  rotate: true
+  xy: 287, 50
+  size: 76, 16
+  orig: 76, 16
+  offset: 0, 0
+  index: -1
+Молоток
+  rotate: true
+  xy: 350, 2
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+Мусор на лопате
+  rotate: true
+  xy: 533, 52
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+Нога прав2
+  rotate: false
+  xy: 623, 25
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Нога_лев1
+  rotate: false
+  xy: 590, 89
+  size: 24, 37
+  orig: 24, 37
+  offset: 0, 0
+  index: -1
+Нога_лев2
+  rotate: true
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+Нога_прав1
+  rotate: true
+  xy: 438, 52
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+Нож
+  rotate: false
+  xy: 558, 89
+  size: 30, 37
+  orig: 34, 40
+  offset: 3, 0
+  index: -1
+Пила
+  rotate: true
+  xy: 201, 44
+  size: 82, 25
+  orig: 85, 29
+  offset: 2, 2
+  index: -1
+Рука_лев1
+  rotate: false
+  xy: 638, 64
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+Рука_лев2
+  rotate: true
+  xy: 586, 52
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+Рука_прав1
+  rotate: true
+  xy: 60, 3
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+Рука_прав2
+  rotate: true
+  xy: 662, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+Травинка
+  rotate: false
+  xy: 512, 83
+  size: 11, 43
+  orig: 11, 43
+  offset: 0, 0
+  index: -1
+Туловище
+  rotate: false
+  xy: 382, 4
+  size: 19, 45
+  orig: 20, 46
+  offset: 0, 1
+  index: -1
+Тяпка
+  rotate: false
+  xy: 95, 2
+  size: 146, 25
+  orig: 146, 25
+  offset: 0, 0
+  index: -1
+капля
+  rotate: false
+  xy: 480, 52
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+куча земли
+  rotate: false
+  xy: 34, 2
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+ступня_лев
+  rotate: false
+  xy: 201, 29
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+ступня_прав
+  rotate: false
+  xy: 611, 3
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+усик левый
+  rotate: false
+  xy: 304, 3
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+усик правый
+  rotate: true
+  xy: 438, 74
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1

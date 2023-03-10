@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9fa73575d730d48b960dd5c0d588a2, type: 3}
+  m_Name: Bedbug
+  m_EditorClassIdentifier: 
+  _references:
+    array:
+    - _type: 1
+      _referenceAsset: {fileID: 11400000, guid: 9fd49d8345d0e884e95d3df83a4a6691,
+        type: 2}
+      _timeSacale: 1.25
+      _isLoop: 0
+    - _type: 2
+      _referenceAsset: {fileID: 11400000, guid: 2daac417ba549ce40a2ecd5fabe0196d,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 3
+      _referenceAsset: {fileID: 11400000, guid: f6e74878707166c45b88046f8aea819a,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 4
+      _referenceAsset: {fileID: 11400000, guid: 5e72d777e5b831f40bd3da379aa11477,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 5
+      _referenceAsset: {fileID: 11400000, guid: c171497792796ff449e93bcf0ba38faa,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 14
+      _referenceAsset: {fileID: 11400000, guid: 12c6cb941e25f9842a55a14bfdafc333,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 26
+      _referenceAsset: {fileID: 11400000, guid: 6c81e953c71c0d749845d8ab54226a2b,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 30
+      _referenceAsset: {fileID: 11400000, guid: cc676a51155515e4ab74545fac585beb,
+        type: 2}
+      _timeSacale: 1
+      _isLoop: 0
+    - _type: 40
+      _referenceAsset: {fileID: 11400000, guid: 0e87526ab184a8f429d599fe4dd07cf4,
+        type: 2}
+      _timeSacale: 1
+      _isLoop: 0

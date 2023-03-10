@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f623bc4c3fe46c4480a96774308a67d, type: 3}
+  m_Name: 2 Special Food Garden
+  m_EditorClassIdentifier: 
+  type: 8
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 0
+  maxCount: 2
+  wiki: {fileID: 11400000, guid: f44d375cee012af4ea6ddc38fc9e6f20, type: 2}
+  prefab: {fileID: 1999199895211281930, guid: 1ed96fbc3f7775b47851788b807d41eb, type: 3}
+  upgrades: {fileID: 11400000, guid: 6a2b5c7b61fd10b479bd4e1a7e747fe2, type: 2}
+  foodType: 10
+  isRestockable: 1
+  stages:
+  - quantity: 400
+    sprite: {fileID: 21300000, guid: cded13bd04ab8424096acafd7a04ad4c, type: 3}
+  garbageAmount: 0

@@ -1,0 +1,1 @@
+{"Items":[{"TypeName":"RoomBaseController","Group":"Openable"},{"TypeName":"RoomOpenableController","Group":"Openable"},{"TypeName":"RoomDigController","Group":"Dig"},{"TypeName":"RoomDigLowController","Group":"Dig"},{"TypeName":"RoomAnimatedController","Group":"Openable"},{"TypeName":"RoomVineController","Group":"Vine"}]}

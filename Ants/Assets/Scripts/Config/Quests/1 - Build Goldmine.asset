@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38f58919f3475b44bbb69750e23f7178, type: 3}
+  m_Name: 1 - Build Goldmine
+  m_EditorClassIdentifier: 
+  id: 1
+  description: "\u041F\u043E\u0441\u0442\u0440\u043E\u0438\u0442\u044C \u0437\u043E\u043B\u043E\u0442\u0443\u044E
+    \u0448\u0430\u0445\u0442\u0443"
+  icon: {fileID: 21300000, guid: fe2d0c58b0f60cc45a577a6310152005, type: 3}
+  reward: 50
+  stages: 1

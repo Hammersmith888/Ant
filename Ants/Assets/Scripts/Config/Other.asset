@@ -1,0 +1,285 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c93c53209e117454ead24c832a408201, type: 3}
+  m_Name: Other
+  m_EditorClassIdentifier: 
+  GameStart:
+    Coins: 25000
+    Crystals: 3000
+    MinuteCost: 6
+  Maggots:
+    stageMinutes: 360
+    probabilities:
+      reorderableList:
+        canAdd: 1
+        canRemove: 1
+        draggable: 1
+        expandable: 1
+        multipleSelection: 1
+        isExpanded: 1
+        label:
+          m_Text: Keys
+          m_Image: {fileID: 0}
+          m_Tooltip: 
+        headerHeight: 18
+        footerHeight: 13
+        slideEasing: 0.15
+        verticalSpacing: 2
+        showDefaultBackground: 1
+        elementDisplayType: 0
+        elementNameProperty: 
+        elementNameOverride: 
+        elementIcon: {fileID: 0}
+      reqReferences: {fileID: 0}
+      isExpanded: 1
+      _keyValues: 050000000200000001000000
+      _keys: 050000000200000001000000
+      _values:
+      - 10
+      - 10
+      - 80
+  Queen:
+    Price: 0
+    Consumption:
+      FoodNeedTime: 60
+      FoodConsumption: 5
+      WaterNeedTime: 0
+      WaterConsumption: 0
+      DaysWithoutFoodAndWater: 7
+    PregnancyHours: 22.4
+    SleepHours: 8
+    Eggs:
+    - eggs: 1
+      ratio: 1
+    - eggs: 1
+      ratio: 2
+    - eggs: 1
+      ratio: 3.5
+  Rooms:
+  - RoomNumber: 1
+    AmountToWork: 0
+    CrystalsToOpen: 0
+  - RoomNumber: 2
+    AmountToWork: 100
+    CrystalsToOpen: 5
+  - RoomNumber: 3
+    AmountToWork: 200
+    CrystalsToOpen: 8
+  - RoomNumber: 4
+    AmountToWork: 300
+    CrystalsToOpen: 10
+  - RoomNumber: 5
+    AmountToWork: 400
+    CrystalsToOpen: 15
+  - RoomNumber: 6
+    AmountToWork: 500
+    CrystalsToOpen: 25
+  - RoomNumber: 7
+    AmountToWork: 600
+    CrystalsToOpen: 40
+  - RoomNumber: 8
+    AmountToWork: 700
+    CrystalsToOpen: 70
+  - RoomNumber: 9
+    AmountToWork: 800
+    CrystalsToOpen: 150
+  - RoomNumber: 10
+    AmountToWork: 900
+    CrystalsToOpen: 150
+  - RoomNumber: 11
+    AmountToWork: 1000
+    CrystalsToOpen: 150
+  - RoomNumber: 12
+    AmountToWork: 1100
+    CrystalsToOpen: 150
+  - RoomNumber: 13
+    AmountToWork: 1200
+    CrystalsToOpen: 150
+  - RoomNumber: 14
+    AmountToWork: 1300
+    CrystalsToOpen: 150
+  - RoomNumber: 15
+    AmountToWork: 1400
+    CrystalsToOpen: 150
+  - RoomNumber: 16
+    AmountToWork: 1500
+    CrystalsToOpen: 150
+  - RoomNumber: 17
+    AmountToWork: 1600
+    CrystalsToOpen: 150
+  - RoomNumber: 18
+    AmountToWork: 1700
+    CrystalsToOpen: 150
+  - RoomNumber: 19
+    AmountToWork: 1800
+    CrystalsToOpen: 150
+  - RoomNumber: 20
+    AmountToWork: 1900
+    CrystalsToOpen: 150
+  - RoomNumber: 21
+    AmountToWork: 2000
+    CrystalsToOpen: 150
+  - RoomNumber: 22
+    AmountToWork: 2100
+    CrystalsToOpen: 150
+  - RoomNumber: 23
+    AmountToWork: 2200
+    CrystalsToOpen: 150
+  - RoomNumber: 24
+    AmountToWork: 2300
+    CrystalsToOpen: 150
+  - RoomNumber: 25
+    AmountToWork: 2400
+    CrystalsToOpen: 150
+  - RoomNumber: 26
+    AmountToWork: 2500
+    CrystalsToOpen: 150
+  - RoomNumber: 27
+    AmountToWork: 2600
+    CrystalsToOpen: 150
+  - RoomNumber: 28
+    AmountToWork: 2700
+    CrystalsToOpen: 150
+  - RoomNumber: 29
+    AmountToWork: 2800
+    CrystalsToOpen: 150
+  - RoomNumber: 30
+    AmountToWork: 2900
+    CrystalsToOpen: 150
+  Chests:
+  - ID: 1
+    Coins: 100
+    Crystals: 1
+  - ID: 2
+    Coins: 200
+    Crystals: 1
+  - ID: 3
+    Coins: 300
+    Crystals: 1
+  - ID: 4
+    Coins: 400
+    Crystals: 0
+  - ID: 5
+    Coins: 500
+    Crystals: 1
+  - ID: 6
+    Coins: 600
+    Crystals: 0
+  - ID: 7
+    Coins: 700
+    Crystals: 1
+  - ID: 8
+    Coins: 800
+    Crystals: 1
+  - ID: 9
+    Coins: 900
+    Crystals: 0
+  - ID: 10
+    Coins: 1000
+    Crystals: 0
+  - ID: 11
+    Coins: 1100
+    Crystals: 1
+  - ID: 12
+    Coins: 1200
+    Crystals: 0
+  - ID: 13
+    Coins: 1300
+    Crystals: 0
+  - ID: 14
+    Coins: 1400
+    Crystals: 1
+  - ID: 15
+    Coins: 1500
+    Crystals: 1
+  - ID: 16
+    Coins: 1600
+    Crystals: 1
+  - ID: 17
+    Coins: 1700
+    Crystals: 1
+  - ID: 18
+    Coins: 1800
+    Crystals: 1
+  - ID: 19
+    Coins: 1900
+    Crystals: 1
+  - ID: 20
+    Coins: 2000
+    Crystals: 0
+  - ID: 21
+    Coins: 2100
+    Crystals: 0
+  - ID: 22
+    Coins: 2200
+    Crystals: 0
+  - ID: 23
+    Coins: 2300
+    Crystals: 1
+  - ID: 24
+    Coins: 2400
+    Crystals: 1
+  - ID: 25
+    Coins: 2500
+    Crystals: 0
+  - ID: 26
+    Coins: 2600
+    Crystals: 1
+  - ID: 27
+    Coins: 2700
+    Crystals: 1
+  - ID: 28
+    Coins: 2800
+    Crystals: 1
+  - ID: 29
+    Coins: 2900
+    Crystals: 1
+  - ID: 30
+    Coins: 3000
+    Crystals: 1
+  Quests:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 0
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 0
+    _keyValues: 0100000002000000030000000400000006000000080000000d0000000e0000000f00000010000000
+    _keys: 0100000002000000030000000400000006000000080000000d0000000e0000000f00000010000000
+    _values:
+    - {fileID: 11400000, guid: 70c513d3c147bf04bb26b4b10bbd361a, type: 2}
+    - {fileID: 11400000, guid: 31da8b7228be34641864ba517044e398, type: 2}
+    - {fileID: 11400000, guid: 6807404a8fe12d048be16f1345bca7e5, type: 2}
+    - {fileID: 11400000, guid: e46269149de5bf74887a2adbf0caeccf, type: 2}
+    - {fileID: 11400000, guid: 914ca58012b3c5a4b83738c5f6fd9666, type: 2}
+    - {fileID: 11400000, guid: 9c0fb502a6c7b654cb197eaf4ee86ad6, type: 2}
+    - {fileID: 11400000, guid: 19b9fc0de6a8cc946ba2f0c51b23f157, type: 2}
+    - {fileID: 11400000, guid: 13dc99e05e6c63b4b98b2f706289da6a, type: 2}
+    - {fileID: 11400000, guid: 524c6cc95ee3b0e4aa0e26642943b2fd, type: 2}
+    - {fileID: 11400000, guid: 62c466f94efc3534894cee32f1a0181a, type: 2}
+  QuestsOrder: 0100000002000000030000000400000006000000080000000d0000000e0000000f00000010000000

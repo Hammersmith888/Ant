@@ -1,0 +1,1 @@
+{"Items":[{"Stats":[{"StatID":"stat_level","StatType":"StatModifiable","BaseValue":1.0,"InitValue":0.0},{"StatID":"stat_currency0","StatType":"StatVital","BaseValue":0.0,"InitValue":150000.0},{"StatID":"stat_currency1","StatType":"StatVital","BaseValue":0.0,"InitValue":1500.0},{"StatID":"stat_maxDisplayValue","StatType":"Stat","BaseValue":100.0,"InitValue":0.0}]}]}

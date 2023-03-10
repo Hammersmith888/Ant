@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c9fa73575d730d48b960dd5c0d588a2, type: 3}
+  m_Name: Firefly
+  m_EditorClassIdentifier: 
+  _references:
+    array:
+    - _type: 2
+      _referenceAsset: {fileID: 11400000, guid: b3443aa9b20e8344ebfff888b6f93e60,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 3
+      _referenceAsset: {fileID: 11400000, guid: 6fb6bddfd0fab134aaecd62c8594e3d5,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 5
+      _referenceAsset: {fileID: 11400000, guid: 48f6ece29bd222745b5d87a47c6b4f66,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 14
+      _referenceAsset: {fileID: 11400000, guid: abefb631f8b60b64c843a65a033eb888,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 26
+      _referenceAsset: {fileID: 11400000, guid: ba58c64d02c9f244daa5be3f2589415d,
+        type: 2}
+      _timeSacale: 1.25
+      _isLoop: 0
+    - _type: 30
+      _referenceAsset: {fileID: 11400000, guid: e5f1364710d6efc4bab4783ded927e32,
+        type: 2}
+      _timeSacale: 1
+      _isLoop: 0
+    - _type: 40
+      _referenceAsset: {fileID: 11400000, guid: 689b9f4e90cc0b54cb6615cb40326c0c,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 44
+      _referenceAsset: {fileID: 11400000, guid: 8424c0dc7cba61143a71d404a7c4c546,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 4
+      _referenceAsset: {fileID: 11400000, guid: d4728fdabed71894d959f632aca19a88,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 24
+      _referenceAsset: {fileID: 11400000, guid: ba58c64d02c9f244daa5be3f2589415d,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0
+    - _type: 21
+      _referenceAsset: {fileID: 11400000, guid: 8a555825edb57554b895d9660f6aaf29,
+        type: 2}
+      _timeSacale: 1.8
+      _isLoop: 0

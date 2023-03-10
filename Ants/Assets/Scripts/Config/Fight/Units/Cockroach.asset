@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04eee37475034354dbac8679bfed71db, type: 3}
+  m_Name: Cockroach
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 7883373149847128559, guid: fb112864e8f5ecb419629b673a1606ca, type: 3}
+  animations: {fileID: 11400000, guid: ab707f7d0b74dcf4296cbd5c9fc4ef29, type: 2}
+  SpeedToAnimationTimeScaleMul: 0.625
+  Cooldown: 1.17
+  Speed: 4
+  expBase: 1.1
+  mulAttack: 1.7
+  mulHP: 30
+  Food: 0
+  HP_Range: {x: 30, y: 3000}
+  HP_C: 3
+  Attack_Range: {x: 5, y: 500}
+  Attack_C: 4

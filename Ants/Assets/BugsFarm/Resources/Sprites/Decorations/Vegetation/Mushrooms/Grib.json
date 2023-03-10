@@ -1,0 +1,53 @@
+{
+"skeleton": {
+	"hash": "9koKd+qV4WYg8uf0XjnN70tfd1k",
+	"spine": "3.8.82",
+	"x": -61,
+	"y": -19,
+	"width": 122,
+	"height": 84,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Грибы1_1", "parent": "root", "length": 69.05, "rotation": 90.47, "x": -3.36, "y": -8.97 }
+],
+"slots": [
+	{ "name": "Грибы1_1", "bone": "Грибы1_1", "attachment": "Грибы1_3" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Грибы1_1": {
+				"Грибы1_1": { "x": 31.94, "y": -3.62, "rotation": -90.47, "width": 122, "height": 84 },
+				"Грибы1_2": { "x": 31.94, "y": -3.62, "rotation": -90.47, "width": 122, "height": 84 },
+				"Грибы1_3": { "x": 31.94, "y": -3.62, "rotation": -90.47, "width": 122, "height": 84 }
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"slots": {
+			"Грибы1_1": {
+				"attachment": [
+					{ "name": "Грибы1_1" }
+				]
+			}
+		},
+		"bones": {
+			"Грибы1_1": {
+				"shear": [
+					{},
+					{ "time": 1.5, "x": -2.8 },
+					{ "time": 3 },
+					{ "time": 4.5, "x": 1.85 },
+					{ "time": 6 }
+				]
+			}
+		}
+	}
+}
+}

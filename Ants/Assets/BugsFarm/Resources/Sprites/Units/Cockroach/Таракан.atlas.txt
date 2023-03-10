@@ -1,0 +1,76 @@
+
+Таракан.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 30
+  rotate: true
+  xy: 112, 56
+  size: 65, 30
+  orig: 67, 32
+  offset: 1, 1
+  index: -1
+Голова
+  rotate: true
+  xy: 93, 10
+  size: 42, 35
+  orig: 44, 37
+  offset: 1, 1
+  index: -1
+Нога левая
+  rotate: false
+  xy: 56, 3
+  size: 35, 47
+  orig: 37, 49
+  offset: 1, 1
+  index: -1
+Нога правая
+  rotate: false
+  xy: 2, 2
+  size: 52, 36
+  orig: 54, 38
+  offset: 1, 1
+  index: -1
+Рука правая
+  rotate: false
+  xy: 130, 21
+  size: 32, 33
+  orig: 34, 35
+  offset: 1, 1
+  index: -1
+Рукалевая
+  rotate: true
+  xy: 144, 89
+  size: 32, 30
+  orig: 34, 32
+  offset: 1, 1
+  index: -1
+Туловище
+  rotate: true
+  xy: 41, 52
+  size: 69, 34
+  orig: 71, 36
+  offset: 1, 1
+  index: -1
+Ус1
+  rotate: false
+  xy: 2, 40
+  size: 37, 81
+  orig: 39, 83
+  offset: 1, 1
+  index: -1
+Ус2
+  rotate: false
+  xy: 77, 54
+  size: 33, 67
+  orig: 35, 69
+  offset: 1, 1
+  index: -1
+веко
+  rotate: true
+  xy: 130, 3
+  size: 16, 14
+  orig: 18, 16
+  offset: 1, 1
+  index: -1

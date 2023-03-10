@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d902df55738ae8488860c679249078a, type: 3}
+  m_Name: Caterpillar
+  m_EditorClassIdentifier: 
+  _typeName: Caterpillar
+  _animations:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 02000000030000000e0000001a00000015000000
+    _keys: 02000000030000000e0000001a00000015000000
+    _values:
+    - _referenceAsset: {fileID: 11400000, guid: 8f44f403504925f49befae08a3ccbdf6,
+        type: 2}
+      _timeScale: 3
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 8f44f403504925f49befae08a3ccbdf6,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 38a9713ad450b29468fec5d8262aff69,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: c069355f4a83a4a4a9cd4b5ac2d03856,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 58434fec7cf2b2045af75b38e66f4cf5,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 953f4860ce0f41029d915acf66d1d7e5, type: 3}
+  m_Name: CameraVerticalMovementModel
+  m_EditorClassIdentifier: 
+  _animationSetup:
+    durationIn: 0.5
+    durationOut: 0.5
+    easeIn: 8
+    easeOut: 8
+    delay: 0
+  _targets:
+    array:
+    - {fileID: 5704877632248928740, guid: 6551ffcceb17f2948bfbc5194ee6e949, type: 3}
+    - {fileID: 3695931825269428129, guid: 14c8dc179adcb24408b5b3337a86ac03, type: 3}

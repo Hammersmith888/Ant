@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c92204939284374ab6917c8035167cf, type: 3}
+  m_Name: 6 Flower
+  m_EditorClassIdentifier: 
+  type: 9
+  isBig: 0
+  price: 500
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: 9eb524bdb7c559644ae69aac12c39f04, type: 2}
+  prefab: {fileID: 2157173107078535461, guid: c6b5806b2af88fa4fbfcdf72bf8a6716, type: 3}
+  upgrades: {fileID: 0}
+  decorType: 1

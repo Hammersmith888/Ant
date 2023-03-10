@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f623bc4c3fe46c4480a96774308a67d, type: 3}
+  m_Name: 3 Seeds
+  m_EditorClassIdentifier: 
+  type: 8
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 175
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: 474e5b57674b3b14eb26d44f947948e4, type: 2}
+  prefab: {fileID: 6596308765075725771, guid: aaa238b81d8cae44a8e2c47f8bf2dfe0, type: 3}
+  upgrades: {fileID: 0}
+  foodType: 3
+  isRestockable: 1
+  stages:
+  - quantity: 70
+    sprite: {fileID: 21300000, guid: 27f517e4011a44e42b2ca2faafec9316, type: 3}
+  - quantity: 46.666668
+    sprite: {fileID: 21300000, guid: 0790d489651532e43906ce4d6ca6aa91, type: 3}
+  - quantity: 23.333334
+    sprite: {fileID: 21300000, guid: 4c7eb32a0be45d84da7d235a76ec0cd7, type: 3}
+  - quantity: 11.66666
+    sprite: {fileID: 21300000, guid: cc019cae7788d06438ba3616731f2ce0, type: 3}
+  garbageAmount: 0

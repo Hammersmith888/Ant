@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d0dae47783da604190700dfec99af78, type: 3}
+  m_Name: Worker
+  m_EditorClassIdentifier: 
+  antType: 1
+  isLocked: 0
+  unlocksAfter: 0
+  wiki: {fileID: 11400000, guid: bdab67f02ec4c1947bcc0b68873290db, type: 2}
+  prefab: {fileID: 7112353755206560440, guid: d46b38983b2f06648aada52c26a7bbab, type: 3}
+  price: 300
+  currency: 1
+  consumption:
+    FoodNeedTime: 40
+    FoodConsumption: 3
+    WaterNeedTime: 60
+    WaterConsumption: 2
+    DaysWithoutFoodAndWater: 2
+  AIMovement:
+    MovementSpeed: 1
+    RotationSpeed: 4
+    SurfaceRepeat: 0
+  _tasks:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 01000000070000000400000003000000080000000f0000001100000005000000100000000a0000000b000000140000000c00000006000000150000001300000002000000
+    _keys: 01000000070000000400000003000000080000000f0000001100000005000000100000000a0000000b000000140000000c00000006000000150000001300000002000000
+    _values: 000000000000000000000000000000000000000068010000010000000a0000000a00000002000000020000000a0000000a00000005000000050000000500000001000000
+  other:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 0200000001000000
+    _keys: 0200000001000000
+    _values:
+    - 1
+    - 10
+  phrases: {fileID: 11400000, guid: 3bb98a235abc1f646a33a7bc1d4a3696, type: 2}

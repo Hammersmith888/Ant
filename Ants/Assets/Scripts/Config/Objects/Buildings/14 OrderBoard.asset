@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033bb33381c6cdc408957b1bcb3d6143, type: 3}
+  m_Name: 14 OrderBoard
+  m_EditorClassIdentifier: 
+  type: 18
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 100
+  maxCount: 1
+  wiki: {fileID: 11400000, guid: 8513094f0914ea94baaa6e179005f82b, type: 2}
+  prefab: {fileID: 7962405723004289950, guid: 351dd4fc0a837d041964b84c64b300fe, type: 3}
+  upgrades: {fileID: 0}
+  _stages:
+    array: []

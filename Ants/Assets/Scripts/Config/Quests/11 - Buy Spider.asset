@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38f58919f3475b44bbb69750e23f7178, type: 3}
+  m_Name: 11 - Buy Spider
+  m_EditorClassIdentifier: 
+  id: 16
+  description: "\u041A\u0443\u043F\u0438\u0442\u044C \u043F\u0430\u0443\u043A\u0430"
+  icon: {fileID: 21300000, guid: 890fb6aa316b5a4449e4d020f351bfa0, type: 3}
+  reward: 250
+  stages: 1

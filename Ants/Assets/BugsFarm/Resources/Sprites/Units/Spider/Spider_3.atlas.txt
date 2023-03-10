@@ -1,0 +1,62 @@
+
+Spider_3.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Веки
+  rotate: false
+  xy: 83, 34
+  size: 31, 17
+  orig: 33, 19
+  offset: 1, 1
+  index: -1
+Голова
+  rotate: false
+  xy: 51, 25
+  size: 30, 26
+  orig: 32, 28
+  offset: 1, 1
+  index: -1
+Зрачки
+  rotate: false
+  xy: 83, 19
+  size: 28, 13
+  orig: 30, 15
+  offset: 1, 1
+  index: -1
+Нога1
+  rotate: false
+  xy: 116, 32
+  size: 7, 19
+  orig: 9, 21
+  offset: 1, 1
+  index: -1
+Нога2
+  rotate: true
+  xy: 70, 2
+  size: 15, 16
+  orig: 17, 18
+  offset: 1, 1
+  index: -1
+Нога3
+  rotate: false
+  xy: 88, 2
+  size: 16, 15
+  orig: 18, 17
+  offset: 1, 1
+  index: -1
+Нога_задняя
+  rotate: true
+  xy: 51, 8
+  size: 15, 17
+  orig: 17, 19
+  offset: 1, 1
+  index: -1
+Туловище
+  rotate: false
+  xy: 2, 8
+  size: 47, 43
+  orig: 49, 45
+  offset: 1, 1
+  index: -1

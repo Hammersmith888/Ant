@@ -1,0 +1,63 @@
+{
+"skeleton": {
+	"hash": "VCkt1+u0O0hxZykSR1rUxBE7eN4",
+	"spine": "3.8.95",
+	"x": -36.5,
+	"y": -68,
+	"width": 75,
+	"height": 148,
+	"images": "H:/Работа/BugsFarm/Анимации/Бабочка/Стадия3",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Layer 104", "parent": "root", "length": 135.37, "rotation": -102.8, "x": 11, "y": 75 }
+],
+"slots": [
+	{ "name": "Layer 104", "bone": "Layer 104", "attachment": "Layer 104" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 104": {
+				"Layer 104": { "x": 69.5, "y": 5.54, "rotation": 102.8, "width": 75, "height": 148 }
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"bones": {
+			"Layer 104": {
+				"scale": [
+					{},
+					{ "time": 2, "x": 1.07, "y": 1.067 },
+					{ "time": 4 }
+				]
+			}
+		}
+	},
+	"Idle2": {
+		"bones": {
+			"Layer 104": {
+				"rotate": [
+					{},
+					{ "time": 1.2667, "angle": 3.81 },
+					{ "time": 1.3333, "angle": 0.49 },
+					{ "time": 1.4, "angle": 4.87 },
+					{ "time": 1.4667, "angle": 0.3 },
+					{ "time": 1.5333, "angle": 5 },
+					{ "time": 1.6, "angle": 0.31 },
+					{ "time": 1.6667 }
+				],
+				"scale": [
+					{},
+					{ "time": 2, "x": 1.07, "y": 1.067 },
+					{ "time": 4 }
+				]
+			}
+		}
+	}
+}
+}

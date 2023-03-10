@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d902df55738ae8488860c679249078a, type: 3}
+  m_Name: Butterfly
+  m_EditorClassIdentifier: 
+  _typeName: Butterfly
+  _animations:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 0200000003000000050000000e0000001a0000001e0000002c00000004000000180000002800000015000000
+    _keys: 0200000003000000050000000e0000001a0000001e0000002c00000004000000180000002800000015000000
+    _values:
+    - _referenceAsset: {fileID: 11400000, guid: 880988e4b557ac64b9842838707010a6,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 7cb008af1d7926d43af03f953aa893d8,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: deaf471ac997e25458b7d06ef911b6b3,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: e37efee822797804ab8e9f0a1deef7c5,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: b9206973862ecbd4f85d1be8a96709e9,
+        type: 2}
+      _timeScale: 1.25
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 0ab267f22049cb84e8f2cfe67869141e,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 880988e4b557ac64b9842838707010a6,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 47bd360302c964846bc7ebe789191afe,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: b9206973862ecbd4f85d1be8a96709e9,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 586b82d91283c6b4faad462ee282aed3,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 4e66f57967a6b6048988d889245fbdb4,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 0

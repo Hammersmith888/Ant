@@ -1,0 +1,195 @@
+
+AntsQueen.png
+size: 2048,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Бедро правое
+  rotate: false
+  xy: 805, 6
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+Глаз левый
+  rotate: true
+  xy: 1203, 20
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+Глаз правый
+  rotate: true
+  xy: 1137, 16
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+Голень правая
+  rotate: false
+  xy: 1244, 27
+  size: 26, 37
+  orig: 26, 37
+  offset: 0, 0
+  index: -1
+Голова
+  rotate: true
+  xy: 957, 63
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+Зленая подушка
+  rotate: false
+  xy: 862, 29
+  size: 93, 97
+  orig: 95, 99
+  offset: 1, 1
+  index: -1
+Зрачок левый
+  rotate: false
+  xy: 442, 3
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+Зрачок правый
+  rotate: false
+  xy: 421, 2
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+Кисть левая
+  rotate: true
+  xy: 760, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+Кисть правая
+  rotate: false
+  xy: 783, 3
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+Кровать
+  rotate: false
+  xy: 1009, 66
+  size: 288, 60
+  orig: 290, 62
+  offset: 1, 1
+  index: -1
+Матка
+  rotate: false
+  xy: 721, 26
+  size: 139, 100
+  orig: 139, 100
+  offset: 0, 0
+  index: -1
+Плечо левое
+  rotate: false
+  xy: 535, 2
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+Плечо правое
+  rotate: true
+  xy: 458, 5
+  size: 13, 47
+  orig: 13, 47
+  offset: 0, 0
+  index: -1
+Подушка в крапинку
+  rotate: true
+  xy: 421, 20
+  size: 106, 95
+  orig: 108, 97
+  offset: 1, 1
+  index: -1
+Предплечье левое
+  rotate: false
+  xy: 721, 2
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+Предпплечье левое
+  rotate: true
+  xy: 1174, 19
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+Розовая подушка
+  rotate: true
+  xy: 622, 21
+  size: 105, 97
+  orig: 105, 97
+  offset: 0, 0
+  index: -1
+Стопа правая
+  rotate: false
+  xy: 507, 5
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+Тень зеленая подушка
+  rotate: false
+  xy: 518, 21
+  size: 102, 105
+  orig: 104, 107
+  offset: 1, 1
+  index: -1
+Тень подушки в крапинку
+  rotate: true
+  xy: 318, 13
+  size: 113, 101
+  orig: 115, 103
+  offset: 1, 1
+  index: -1
+Тень розовой подушки
+  rotate: true
+  xy: 211, 13
+  size: 113, 105
+  orig: 113, 105
+  offset: 0, 0
+  index: -1
+Тень царицы
+  rotate: false
+  xy: 2, 4
+  size: 207, 122
+  orig: 212, 128
+  offset: 1, 2
+  index: -1
+Туловище
+  rotate: false
+  xy: 1086, 15
+  size: 49, 49
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+Усик левый
+  rotate: true
+  xy: 997, 11
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+Усик правый
+  rotate: true
+  xy: 957, 4
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+закрытые глаза
+  rotate: true
+  xy: 1043, 14
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1

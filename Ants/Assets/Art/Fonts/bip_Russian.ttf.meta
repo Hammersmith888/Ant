@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c60dfea4cd2b7b442ad91a9f0e552700
+timeCreated: 1541612679
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BIP
+  fontNames:
+  - BIP
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,229 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 24ec1043a5d64d01a1cbe03594cbfd0d, type: 3}
+  m_Name: UnitViewSettings
+  m_EditorClassIdentifier: 
+  unitView:
+    startRoom: 0
+    units:
+      reorderableList:
+        canAdd: 1
+        canRemove: 1
+        draggable: 1
+        expandable: 1
+        multipleSelection: 1
+        isExpanded: 0
+        label:
+          m_Text: Keys
+          m_Image: {fileID: 0}
+          m_Tooltip: 
+        headerHeight: 18
+        footerHeight: 13
+        slideEasing: 0.15
+        verticalSpacing: 2
+        showDefaultBackground: 1
+        elementDisplayType: 0
+        elementNameProperty: 
+        elementNameOverride: 
+        elementIcon: {fileID: 0}
+      reqReferences: {fileID: 0}
+      isExpanded: 0
+      _keyValues: 010000000200000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000
+      _keys: 010000000200000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000
+      _values:
+      - animationScale:
+          walk: 1.1
+          run: 0.8
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.1
+        moveSpeed: 2.3
+        moveToStartSpeed: 1.8
+        attackDelay: 1.2
+        avatar: {fileID: 21300000, guid: 309bb76515c58274980295a62cd5c71a, type: 3}
+      - animationScale:
+          walk: 1.6
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.3
+        attackDelay: 1.8
+        avatar: {fileID: 21300000, guid: 152ae80bdea6a2f44b25671c2c98e71c, type: 3}
+      - animationScale:
+          walk: 1.3
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.8
+        attackDelay: 1
+        avatar: {fileID: 21300000, guid: 8648c02107d02b74193d373d929f9dc7, type: 3}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.1
+        moveSpeed: 1.3
+        moveToStartSpeed: 1.8
+        attackDelay: 1.6
+        avatar: {fileID: 21300000, guid: 890fb6aa316b5a4449e4d020f351bfa0, type: 3}
+      - animationScale:
+          walk: 2
+          run: 2
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 0.9
+        moveSpeed: 1.3
+        moveToStartSpeed: 1.1
+        attackDelay: 1
+        avatar: {fileID: 21300000, guid: 5be1d1a1d6ccb6e479b1fb6126411a48, type: 3}
+      - animationScale:
+          walk: 1.5
+          run: 1.5
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.5
+        moveToStartSpeed: 1.5
+        attackDelay: 1.5
+        avatar: {fileID: 0}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.1
+        moveSpeed: 1.3
+        moveToStartSpeed: 1.3
+        attackDelay: 1
+        avatar: {fileID: 0}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.8
+        attackDelay: 0.2
+        avatar: {fileID: 0}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 0.2
+        moveSpeed: 0.2
+        moveToStartSpeed: 0.2
+        attackDelay: 1.9
+        avatar: {fileID: 0}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.8
+        attackDelay: 1
+        avatar: {fileID: 21300000, guid: db144aa6637c5134482466679b6d29c7, type: 3}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.8
+        attackDelay: 1
+        avatar: {fileID: 0}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.8
+        attackDelay: 1
+        avatar: {fileID: 0}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.8
+        attackDelay: 1
+        avatar: {fileID: 0}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.8
+        attackDelay: 1
+        avatar: {fileID: 0}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.8
+        attackDelay: 1
+        avatar: {fileID: 21300000, guid: 1f804589c470185498531d5d603f3747, type: 3}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.8
+        attackDelay: 1
+        avatar: {fileID: 21300000, guid: 3027cb1112ec7614082547a13383f156, type: 3}
+      - animationScale:
+          walk: 1
+          run: 1
+          idle: 1
+          attack: 1
+          death: 1
+        walkSpeed: 1.2
+        moveSpeed: 1.8
+        moveToStartSpeed: 1.8
+        attackDelay: 2
+        avatar: {fileID: 21300000, guid: 0bd214eb1e4448a49b815a3d3d1b90a1, type: 3}

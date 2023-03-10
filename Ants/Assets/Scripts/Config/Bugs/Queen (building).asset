@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033bb33381c6cdc408957b1bcb3d6143, type: 3}
+  m_Name: Queen (building)
+  m_EditorClassIdentifier: 
+  type: 11
+  isBig: 0
+  price: 0
+  maxCount: 1
+  wiki: {fileID: 11400000, guid: 9ec5a6fe519bd4d4fbad9b1daa1d036f, type: 2}
+  prefab: {fileID: 2970590950183789155, guid: f1615657c03db334ab1916fc0a72a2b1, type: 3}

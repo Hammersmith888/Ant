@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &293536546898027940
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 293536546898027939}
+  - component: {fileID: 293536546898027938}
+  m_Layer: 0
+  m_Name: Data Fight
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &293536546898027939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 293536546898027940}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &293536546898027938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 293536546898027940}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a63c0a80f48707c4bb8f9f2ac996ba2d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  units:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 010000000200000005000000060000000700000009000000080000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000
+    _keys: 010000000200000005000000060000000700000009000000080000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000
+    _values:
+    - {fileID: 11400000, guid: b58421beb3b72f841aa4153c1ecf05ea, type: 2}
+    - {fileID: 11400000, guid: 4050c78750ad7d345a7e1a7e23087e00, type: 2}
+    - {fileID: 11400000, guid: 620c2864859c51e47844c06c474c205a, type: 2}
+    - {fileID: 11400000, guid: c3747504e64ae5943b9a20ca5615b9c4, type: 2}
+    - {fileID: 11400000, guid: c71e83dbcdf900a469ee0cf3d0a5edbb, type: 2}
+    - {fileID: 11400000, guid: 75c3fc17dc8cb9442942647c7196d20c, type: 2}
+    - {fileID: 11400000, guid: 69a31c1ac94553449b75e0c6f92ece9a, type: 2}
+    - {fileID: 11400000, guid: fab6f3a937234d74ebbc615613d1c484, type: 2}
+    - {fileID: 11400000, guid: 402f7a7578ecdda43988932e3825289a, type: 2}
+    - {fileID: 11400000, guid: e69ccee2c08808141ba2f00ebbb3179d, type: 2}
+    - {fileID: 11400000, guid: 70f29f19f54f898439e140aad3f31f4c, type: 2}
+    - {fileID: 11400000, guid: d484af450fa927e4087a22a8892bd819, type: 2}
+    - {fileID: 11400000, guid: 4d6f3b74d9b351b47b82d1d5c9a940e9, type: 2}
+    - {fileID: 11400000, guid: 783c64dc7387f2744b5d84619e6c1232, type: 2}
+    - {fileID: 11400000, guid: 90cd30cd22da7354bb5fc9c64f74afea, type: 2}
+    - {fileID: 11400000, guid: 88a0c4e774fb8394b8802a7eb2427afd, type: 2}
+    - {fileID: 11400000, guid: c081047d4466e414e92f7acd1331e55e, type: 2}
+  enemies: {fileID: 11400000, guid: 7df6cb71c663c3241b2eefb0c4d46047, type: 2}

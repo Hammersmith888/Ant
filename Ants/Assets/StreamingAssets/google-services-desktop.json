@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "892244535065",
+    "firebase_url": "https://bugs-farm.firebaseio.com",
+    "project_id": "bugs-farm",
+    "storage_bucket": "bugs-farm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892244535065:android:71feecc8ef2068f16dc788",
+        "android_client_info": {
+          "package_name": "com.TSGames.Ants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892244535065-e565pitpniqm6aks5bbjt19jaooo9kmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP-6-c6OAtcD3uI1lGwBHGl06oePKlsoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892244535065-e565pitpniqm6aks5bbjt19jaooo9kmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892244535065-i4ikr1p4ninbb0p2rge7upjk29vnr7pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TSGames.Ants"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892244535065:android:a9e1a649cd2252ee6dc788",
+        "android_client_info": {
+          "package_name": "com.TSGames.BugsFarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892244535065-bv0ktdqfque9p272a14ej9mun6uqcqpu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.TSGames.BugsFarm",
+            "certificate_hash": "93ef7dfe5c853de802ec9cbce3d1c944fbb3546e"
+          }
+        },
+        {
+          "client_id": "892244535065-e565pitpniqm6aks5bbjt19jaooo9kmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP-6-c6OAtcD3uI1lGwBHGl06oePKlsoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892244535065-e565pitpniqm6aks5bbjt19jaooo9kmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892244535065-i4ikr1p4ninbb0p2rge7upjk29vnr7pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TSGames.Ants"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892244535065:android:1f7ed5fadbf55a616dc788",
+        "android_client_info": {
+          "package_name": "com.TSGames.BugsFarmConfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892244535065-e565pitpniqm6aks5bbjt19jaooo9kmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP-6-c6OAtcD3uI1lGwBHGl06oePKlsoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892244535065-e565pitpniqm6aks5bbjt19jaooo9kmn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "892244535065-i4ikr1p4ninbb0p2rge7upjk29vnr7pr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.TSGames.Ants"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+
+Grib.png
+size: 256,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Грибы1_1
+  rotate: true
+  xy: 119, 3
+  size: 101, 40
+  orig: 122, 84
+  offset: 13, 5
+  index: -1
+Грибы1_2
+  rotate: true
+  xy: 73, 3
+  size: 101, 44
+  orig: 122, 84
+  offset: 14, 6
+  index: -1
+Грибы1_3
+  rotate: true
+  xy: 2, 2
+  size: 102, 69
+  orig: 122, 84
+  offset: 13, 5
+  index: -1

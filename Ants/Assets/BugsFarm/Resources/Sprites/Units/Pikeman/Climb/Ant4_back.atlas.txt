@@ -1,0 +1,90 @@
+
+Ant4_back.png
+size: 77,275
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Брюшко
+  rotate: true
+  xy: 27, 168
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+Голова с глазами
+  rotate: true
+  xy: 2, 219
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Нога_прав1
+  rotate: false
+  xy: 55, 230
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+Нога_прав2
+  rotate: false
+  xy: 64, 93
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+Нога_прав3
+  rotate: true
+  xy: 50, 13
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+Рука_прав1
+  rotate: false
+  xy: 47, 53
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Рука_прав2
+  rotate: false
+  xy: 27, 48
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+Рука_прав3
+  rotate: true
+  xy: 47, 29
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Туловище
+  rotate: true
+  xy: 2, 2
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+Усик слева
+  rotate: false
+  xy: 27, 87
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Усик справа
+  rotate: false
+  xy: 27, 128
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+оружие
+  rotate: false
+  xy: 2, 28
+  size: 23, 189
+  orig: 23, 189
+  offset: 0, 0
+  index: -1

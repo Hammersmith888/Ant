@@ -1,0 +1,111 @@
+
+TreesCase1.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: true
+  xy: 80, 13
+  size: 49, 87
+  orig: 51, 89
+  offset: 1, 1
+  index: -1
+Layer 11
+  rotate: false
+  xy: 609, 17
+  size: 29, 45
+  orig: 31, 47
+  offset: 1, 1
+  index: -1
+Layer 12
+  rotate: true
+  xy: 571, 19
+  size: 43, 36
+  orig: 45, 38
+  offset: 1, 1
+  index: -1
+Layer 13
+  rotate: true
+  xy: 474, 7
+  size: 30, 45
+  orig: 32, 47
+  offset: 1, 1
+  index: -1
+Layer 14
+  rotate: true
+  xy: 2, 2
+  size: 60, 76
+  orig: 62, 78
+  offset: 1, 1
+  index: -1
+Layer 15
+  rotate: true
+  xy: 238, 9
+  size: 53, 65
+  orig: 55, 67
+  offset: 1, 1
+  index: -1
+Layer 16
+  rotate: false
+  xy: 674, 18
+  size: 24, 44
+  orig: 26, 46
+  offset: 1, 1
+  index: -1
+Layer 17
+  rotate: true
+  xy: 379, 5
+  size: 32, 50
+  orig: 34, 52
+  offset: 1, 1
+  index: -1
+Layer 18
+  rotate: true
+  xy: 431, 2
+  size: 35, 41
+  orig: 37, 43
+  offset: 1, 1
+  index: -1
+Layer 5
+  rotate: false
+  xy: 305, 15
+  size: 72, 47
+  orig: 74, 49
+  offset: 1, 1
+  index: -1
+Layer 6
+  rotate: false
+  xy: 521, 10
+  size: 48, 52
+  orig: 50, 54
+  offset: 1, 1
+  index: -1
+Layer 7
+  rotate: true
+  xy: 169, 6
+  size: 56, 67
+  orig: 58, 69
+  offset: 1, 1
+  index: -1
+Layer 8
+  rotate: true
+  xy: 640, 23
+  size: 39, 32
+  orig: 41, 34
+  offset: 1, 1
+  index: -1
+Layer 9
+  rotate: true
+  xy: 700, 34
+  size: 28, 26
+  orig: 30, 28
+  offset: 1, 1
+  index: -1
+тп
+  rotate: false
+  xy: 379, 39
+  size: 139, 23
+  orig: 141, 25
+  offset: 1, 1
+  index: -1

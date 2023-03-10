@@ -1,0 +1,55 @@
+
+Gold_shahta.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Балки
+  rotate: false
+  xy: 2, 4
+  size: 253, 133
+  orig: 255, 135
+  offset: 1, 1
+  index: -1
+Доп веревка
+  rotate: false
+  xy: 410, 6
+  size: 4, 86
+  orig: 6, 88
+  offset: 1, 1
+  index: -1
+Камень
+  rotate: false
+  xy: 257, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+Крюк
+  rotate: true
+  xy: 376, 94
+  size: 43, 40
+  orig: 45, 42
+  offset: 1, 1
+  index: -1
+Ручка
+  rotate: false
+  xy: 376, 58
+  size: 32, 34
+  orig: 34, 36
+  offset: 1, 1
+  index: -1
+Столб
+  rotate: true
+  xy: 257, 31
+  size: 106, 117
+  orig: 108, 119
+  offset: 1, 1
+  index: -1
+мал веревка
+  rotate: false
+  xy: 291, 13
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1

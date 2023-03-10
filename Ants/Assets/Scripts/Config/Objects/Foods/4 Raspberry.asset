@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f623bc4c3fe46c4480a96774308a67d, type: 3}
+  m_Name: 4 Raspberry
+  m_EditorClassIdentifier: 
+  type: 8
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 325
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: 0a65981c83b9a4c4b8f919b0ae823560, type: 2}
+  prefab: {fileID: 9072695732109095892, guid: 8d7586019f6f1b9499afbf44318d90a5, type: 3}
+  upgrades: {fileID: 0}
+  foodType: 4
+  isRestockable: 0
+  stages:
+  - quantity: 140
+    sprite: {fileID: 21300000, guid: e5593970dd2c2e343a20ff7ebe1a9f2d, type: 3}
+  - quantity: 70
+    sprite: {fileID: 21300000, guid: 243f9f241f372cd47b28e49cae6ea182, type: 3}
+  - quantity: 35
+    sprite: {fileID: 21300000, guid: 7c39a9ae5b2695e41a50f14267ce1f30, type: 3}
+  - quantity: 17.5
+    sprite: {fileID: 21300000, guid: 2bca4520726a76a48ab008a4bfab0a31, type: 3}
+  garbageAmount: 7

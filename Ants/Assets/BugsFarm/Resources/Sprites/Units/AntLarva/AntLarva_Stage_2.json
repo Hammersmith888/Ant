@@ -1,0 +1,63 @@
+{
+"skeleton": {
+	"hash": "P/4BZbFkWJeMDUcBwNdy0uuZVXI",
+	"spine": "3.8.99",
+	"x": -19,
+	"y": -4,
+	"width": 48.4,
+	"height": 50,
+	"images": "H:/Работа/BugsFarm/Анимации/Личинка/Личинка муравья/2",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "2", "bone": "root", "attachment": "2" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"2": {
+				"2": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 29, -4, -19, -4, -19, 46, 29.4, 46 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 0, 6 ],
+					"width": 48,
+					"height": 50
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"deform": {
+			"default": {
+				"2": {
+					"2": [
+						{
+							"offset": 6,
+							"vertices": [ -0.39603, -0.39601 ]
+						},
+						{
+							"time": 1.3333,
+							"offset": 6,
+							"vertices": [ -0.72402, -0.39601 ]
+						},
+						{
+							"time": 2.6667,
+							"offset": 6,
+							"vertices": [ -0.39603, -0.39601 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}

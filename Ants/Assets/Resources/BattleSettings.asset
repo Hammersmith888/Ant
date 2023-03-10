@@ -1,0 +1,311 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3bfe2ccc25499342aeac5e4a40e8eec, type: 3}
+  m_Name: BattleSettings
+  m_EditorClassIdentifier: 
+  battle:
+    openChestDelay: 1
+    cameraOffset: 4.5
+    cameraSpeed: 0.1
+    cameraMoveDelay: 1
+    chestMaterialNormal: {fileID: 2100000, guid: 0a2dcba376e1ed6429b3d58afcbf7dac,
+      type: 2}
+    chestMaterialFill: {fileID: 2100000, guid: edf6f92ee791b0546a5de6ae2e35898e, type: 2}
+    spawnRoomsCount: 3
+    spawnRoomOffset:
+    - 4.6
+    - 5.5
+    fogColor: {r: 0.427451, g: 0.227451, b: 0.10980393, a: 1}
+    splineMaskFog: {fileID: 2100000, guid: 86bf3f6cf9db9314d8fc280a356b2c2c, type: 2}
+    splineMaskNoFog: {fileID: 2100000, guid: 89a3cf80ca2d7d940b533d998d356842, type: 2}
+    materialGround: {fileID: 2100000, guid: ee633095794fee64f94df688a5944319, type: 2}
+    foodBarPositive: {r: 0.46666658, g: 1, b: 0, a: 1}
+    foodBarNegative: {r: 1, g: 0.702, b: 0.702, a: 1}
+    colorDamagePlayer: {r: 1, g: 0.3915094, b: 0.3915094, a: 1}
+    colorDamageEnemy: {r: 0.39215684, g: 0.4428104, b: 1, a: 1}
+    damageEase: 15
+    failPanelStartMul: 0.5
+    failPanelDelay: 0.3
+    failPanelDelayStep: 0.05
+    failPanelDuration: 0.5
+    failPanelEase: 15
+    lightOnDuration: 1.5
+    lightOnDelay: 1
+    lightOffDuration: 1.5
+    unitSpeedMul: 0.4
+    arrowsGravity: -14
+    arrowsSpeed: 11
+    damageOffsetY0: 0.5
+    damageOffsetY1: 2
+    damageRandomShiftX: 0.25
+    damageRandomShiftY: 0.25
+    patrolBorderRight: 3.5
+    patrolBorderLeft: -1
+    patrolWait: {x: 1, y: 2}
+    armorDuration: 5
+    attackDuration: 5
+    attackRate: 2
+    squadSelectItemPrefab: {fileID: 6497613057445191067, guid: a6d5aa599dacf974c8d74ef442eaf6bd,
+      type: 3}
+  ant:
+    antMoveDeltaStop: 0.1
+    enemyPositionOffset: 0.85
+    fadeInDelay: 1.25
+    fadeInDuration: 1
+    fadeOutDistance: 4.5
+    fadeOutDistanceSeason1: 5
+    fadeOutDistanceSeason2: 2.5
+    fadeOutDistanceRetreat: 3.5
+    antStartOffset: 0.6
+    findAttackPositionOffset: 0.65
+    findAttackPositionOffsetCoef: 1.85
+    animationDamageDuration: 0.5
+    animationScaleExitFromCave: 1.5
+    arrowSpeed: 10
+    archerShootDelay: 1
+    archerIdleDelay: 1.2
+    arrowCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 34
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    arrowMaxDistance: 0
+    arrowFadeDelay: 0.75
+    arrowFadeDuration: 0.25
+    archerShootTimeNoise: {x: 0.2, y: 2}
+    arrowGravity: 0.8
+    arrowRotationSpeed: 25
+  antDatabase:
+    items:
+    - type: 9
+      materialOriginal: {fileID: 2100000, guid: ab537ae126343454e9298a2f092f6b0a,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: ab537ae126343454e9298a2f092f6b0a, type: 2}
+      materialFill: {fileID: 2100000, guid: 202905e6aa17f284e916551f27d3ec32, type: 2}
+      materialArmor: {fileID: 0}
+      materialAttack: {fileID: 0}
+      attackAnimationTime: 0.5
+      stopTime: 2.5
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 8
+      materialOriginal: {fileID: 2100000, guid: 3e514ce46e945a647be96d0ce623d4be,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: 3e514ce46e945a647be96d0ce623d4be, type: 2}
+      materialFill: {fileID: 2100000, guid: d6597ff2297aa1249b74550d35638292, type: 2}
+      materialArmor: {fileID: 0}
+      materialAttack: {fileID: 0}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 2
+      materialOriginal: {fileID: 2100000, guid: 5182af297495b7d46a5148d0b5145d57,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: 6c485f4dd01826040ab2d88ed0457391, type: 2}
+      materialFill: {fileID: 2100000, guid: 2fe13f886c1674543aa7189ca9b56d96, type: 2}
+      materialArmor: {fileID: 2100000, guid: 9139a9150f10c0d43ab8162310cfad82, type: 2}
+      materialAttack: {fileID: 2100000, guid: bb056914d2b34624db5f07bfbd06f36c, type: 2}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 10
+      materialOriginal: {fileID: 2100000, guid: b0af5359c8d240248a060bca1c289245,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: b0af5359c8d240248a060bca1c289245, type: 2}
+      materialFill: {fileID: 2100000, guid: 7b1f392e7ff3f0947bdd9707c85d6af3, type: 2}
+      materialArmor: {fileID: 0}
+      materialAttack: {fileID: 0}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 5
+      materialOriginal: {fileID: 2100000, guid: 79c824b2f80a8524ba666575efbe8790,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: 2cd063798b9f56249bef06960d9127ce, type: 2}
+      materialFill: {fileID: 2100000, guid: c23f87f987733f84b878458cea76f73e, type: 2}
+      materialArmor: {fileID: 2100000, guid: ac335408907961f498a6f0e498ed1d0f, type: 2}
+      materialAttack: {fileID: 2100000, guid: 4047b1f3c72d3c04aa95255610279fa5, type: 2}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 11
+      materialOriginal: {fileID: 2100000, guid: 1a7f95e36598e8f4f92862c9d2ea0caf,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: 1a7f95e36598e8f4f92862c9d2ea0caf, type: 2}
+      materialFill: {fileID: 2100000, guid: e0808e58f0900624da9392ec416546d4, type: 2}
+      materialArmor: {fileID: 0}
+      materialAttack: {fileID: 0}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 1.4
+    - type: 1
+      materialOriginal: {fileID: 2100000, guid: 74a8a7dc7c9120e428c7d49134b4bd29,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: 96479c9d6a588544188d16de2401e013, type: 2}
+      materialFill: {fileID: 2100000, guid: dbec9319be6a83148b37cebe15e3a3b2, type: 2}
+      materialArmor: {fileID: 2100000, guid: b25005e750bcc87478702c9109ad9bce, type: 2}
+      materialAttack: {fileID: 2100000, guid: de0e8554c2a993f4db1d4ca4dfc90b6d, type: 2}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 7
+      materialOriginal: {fileID: 2100000, guid: 868dc8efa39cc614ea7fda5d0baeaeab,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: 102ac193c5c73934bbdfdb3f4a92d8e0, type: 2}
+      materialFill: {fileID: 2100000, guid: c28c34a1654fbff468a0658aedb9d30c, type: 2}
+      materialArmor: {fileID: 2100000, guid: eee9baf923071a84299b3da96ab44a96, type: 2}
+      materialAttack: {fileID: 2100000, guid: ef5ab8cda369fb54db2bbcfff6f9709c, type: 2}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 6
+      materialOriginal: {fileID: 2100000, guid: e85ebd47af235f245976f7508a97059f,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: d440d6e521e45b0459a6b807967b7d49, type: 2}
+      materialFill: {fileID: 2100000, guid: cc7ae2d78bc487b4d9bcb6ac7a802d23, type: 2}
+      materialArmor: {fileID: 2100000, guid: d132a1cbff219924da86d62aeac134d8, type: 2}
+      materialAttack: {fileID: 2100000, guid: d8a32b730d04f1d4bb7479b60ab21d36, type: 2}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 12
+      materialOriginal: {fileID: 2100000, guid: 788dcd05724c97843ab923eb33bc4c09,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: 6ab5972994354d428c8e152d1401ac66, type: 2}
+      materialFill: {fileID: 2100000, guid: d072b57c521d41aab288291f51d3f119, type: 2}
+      materialArmor: {fileID: 2100000, guid: b8d9fbe9fb5997c4581eea37f8a213a8, type: 2}
+      materialAttack: {fileID: 2100000, guid: 7e2172bbd7b4a5746997d30131068a4b, type: 2}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 13
+      materialOriginal: {fileID: 2100000, guid: 4cdec9284e734973b4abfa925d3a414b,
+        type: 2}
+      materialOutline: {fileID: 0}
+      materialFill: {fileID: 0}
+      materialArmor: {fileID: 0}
+      materialAttack: {fileID: 0}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 1
+    - type: 14
+      materialOriginal: {fileID: 2100000, guid: 30332dca79213714f99e2cd2fb4f81ee,
+        type: 2}
+      materialOutline: {fileID: 0}
+      materialFill: {fileID: 0}
+      materialArmor: {fileID: 0}
+      materialAttack: {fileID: 0}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 15
+      materialOriginal: {fileID: 2100000, guid: fd235ad6d5aa91749b698f9bd0fdc323,
+        type: 2}
+      materialOutline: {fileID: 0}
+      materialFill: {fileID: 0}
+      materialArmor: {fileID: 0}
+      materialAttack: {fileID: 0}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 16
+      materialOriginal: {fileID: 2100000, guid: fd235ad6d5aa91749b698f9bd0fdc323,
+        type: 2}
+      materialOutline: {fileID: 0}
+      materialFill: {fileID: 0}
+      materialArmor: {fileID: 0}
+      materialAttack: {fileID: 0}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 0.85
+    - type: 18
+      materialOriginal: {fileID: 2100000, guid: 99828b6b149993441aacfe41343cca39,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: 194aa3e3148e3f348a0b1e8dcee8d289, type: 2}
+      materialFill: {fileID: 2100000, guid: 1e3f1f651b05ef647aee050eca2da061, type: 2}
+      materialArmor: {fileID: 2100000, guid: f721ab46ba11c4347adc2a8a188b8a56, type: 2}
+      materialAttack: {fileID: 2100000, guid: 8eb1709895de1d64999c412e570ff413, type: 2}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 1
+    - type: 17
+      materialOriginal: {fileID: 2100000, guid: cb6465c4b48f9ef42978d0f1abafa9a3,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: 8025f457aade94049ba710d3331d488b, type: 2}
+      materialFill: {fileID: 2100000, guid: c06883261fbc0b24ca1420824ecab30c, type: 2}
+      materialArmor: {fileID: 2100000, guid: 80130e69e0908b14291f57cbe9681ce8, type: 2}
+      materialAttack: {fileID: 2100000, guid: ab7aa42a71735944691029d27faa3fa3, type: 2}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 1
+    - type: 19
+      materialOriginal: {fileID: 2100000, guid: 6dac58443abc29d4889ed21357a0b9aa,
+        type: 2}
+      materialOutline: {fileID: 2100000, guid: 657a1507c5bbfee4596120055c297ac9, type: 2}
+      materialFill: {fileID: 2100000, guid: e8ac3b1379462ca45b4d08279725b3b4, type: 2}
+      materialArmor: {fileID: 2100000, guid: d2ac765cbe83d6545b385b45b9fb15d9, type: 2}
+      materialAttack: {fileID: 2100000, guid: d7e9f71f64f600f4f9f5d978d74ddf57, type: 2}
+      attackAnimationTime: 0.5
+      stopTime: 1
+      patrolDistance: 2
+      attackAnimationScale: 1.2
+      attackDistance: 1

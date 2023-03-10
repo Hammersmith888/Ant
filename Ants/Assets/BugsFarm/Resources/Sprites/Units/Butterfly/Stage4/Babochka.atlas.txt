@@ -1,0 +1,132 @@
+
+Babochka.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 622, 65
+  size: 188, 261
+  orig: 190, 263
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 1210, 94
+  size: 159, 258
+  orig: 161, 260
+  offset: 1, 1
+  index: -1
+2-1
+  rotate: true
+  xy: 2, 76
+  size: 177, 329
+  orig: 179, 331
+  offset: 1, 1
+  index: -1
+2-2
+  rotate: true
+  xy: 885, 105
+  size: 148, 323
+  orig: 150, 325
+  offset: 1, 1
+  index: -1
+3-1
+  rotate: true
+  xy: 333, 79
+  size: 174, 287
+  orig: 176, 289
+  offset: 1, 1
+  index: -1
+3-2
+  rotate: true
+  xy: 1470, 123
+  size: 130, 278
+  orig: 132, 280
+  offset: 1, 1
+  index: -1
+Веко1
+  rotate: false
+  xy: 196, 2
+  size: 26, 27
+  orig: 28, 29
+  offset: 1, 1
+  index: -1
+Веко2
+  rotate: false
+  xy: 196, 2
+  size: 26, 27
+  orig: 28, 29
+  offset: 1, 1
+  index: -1
+Глаза
+  rotate: true
+  xy: 484, 31
+  size: 46, 40
+  orig: 48, 42
+  offset: 1, 1
+  index: -1
+Голова
+  rotate: false
+  xy: 526, 37
+  size: 39, 40
+  orig: 41, 42
+  offset: 1, 1
+  index: -1
+Нога1
+  rotate: false
+  xy: 358, 24
+  size: 42, 53
+  orig: 44, 55
+  offset: 1, 1
+  index: -1
+Нога2
+  rotate: true
+  xy: 196, 31
+  size: 43, 79
+  orig: 45, 81
+  offset: 1, 1
+  index: -1
+Нога3
+  rotate: true
+  xy: 277, 32
+  size: 42, 79
+  orig: 44, 81
+  offset: 1, 1
+  index: -1
+Нога4
+  rotate: true
+  xy: 441, 32
+  size: 45, 41
+  orig: 47, 43
+  offset: 1, 1
+  index: -1
+Тело
+  rotate: false
+  xy: 402, 27
+  size: 37, 50
+  orig: 39, 52
+  offset: 1, 1
+  index: -1
+Тело2
+  rotate: false
+  xy: 107, 22
+  size: 87, 52
+  orig: 89, 54
+  offset: 1, 1
+  index: -1
+Ус1
+  rotate: false
+  xy: 885, 10
+  size: 108, 93
+  orig: 110, 95
+  offset: 1, 1
+  index: -1
+Ус2
+  rotate: true
+  xy: 2, 2
+  size: 72, 103
+  orig: 74, 105
+  offset: 1, 1
+  index: -1

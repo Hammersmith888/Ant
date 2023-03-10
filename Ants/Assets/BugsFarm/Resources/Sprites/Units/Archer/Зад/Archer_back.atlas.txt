@@ -1,0 +1,97 @@
+
+Archer_back.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowl
+  rotate: true
+  xy: 2, 31
+  size: 31, 103
+  orig: 31, 103
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 2, 26
+  size: 3, 96
+  orig: 3, 96
+  offset: 0, 0
+  index: -1
+Брюшко
+  rotate: false
+  xy: 163, 19
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+Голова с глазами
+  rotate: false
+  xy: 107, 11
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+Нога_прав1
+  rotate: true
+  xy: 27, 5
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+Нога_прав2
+  rotate: true
+  xy: 72, 14
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+Нога_прав3
+  rotate: true
+  xy: 416, 48
+  size: 14, 25
+  orig: 14, 25
+  offset: 0, 0
+  index: -1
+Рука_прав1
+  rotate: true
+  xy: 343, 35
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+Рука_прав2
+  rotate: true
+  xy: 377, 44
+  size: 18, 37
+  orig: 18, 37
+  offset: 0, 0
+  index: -1
+Рука_прав3
+  rotate: true
+  xy: 2, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+Туловище
+  rotate: true
+  xy: 295, 38
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+Усик слева
+  rotate: true
+  xy: 254, 27
+  size: 35, 39
+  orig: 35, 39
+  offset: 0, 0
+  index: -1
+Усик справа
+  rotate: false
+  xy: 214, 24
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,251 @@
+
+ant_archer.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bowl
+  rotate: true
+  xy: 412, 31
+  size: 31, 103
+  orig: 31, 103
+  offset: 0, 0
+  index: -1
+rope
+  rotate: true
+  xy: 148, 6
+  size: 3, 96
+  orig: 3, 96
+  offset: 0, 0
+  index: -1
+Кусочек_виноград
+  rotate: true
+  xy: 263, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+Кусочек_льна
+  rotate: true
+  xy: 579, 43
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+Кусочек_малины
+  rotate: true
+  xy: 588, 7
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+Кусочек_пшеницы
+  rotate: true
+  xy: 605, 32
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+Кусочек_семечки
+  rotate: false
+  xy: 306, 2
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+Кусочек_фундук
+  rotate: true
+  xy: 604, 8
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+Кусочек_яблока
+  rotate: true
+  xy: 588, 25
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+Стрела
+  rotate: false
+  xy: 98, 3
+  size: 48, 6
+  orig: 48, 6
+  offset: 0, 0
+  index: -1
+бедро_лев
+  rotate: false
+  xy: 282, 21
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+бедро_прав
+  rotate: false
+  xy: 261, 20
+  size: 19, 42
+  orig: 19, 42
+  offset: 0, 0
+  index: -1
+брюхо
+  rotate: true
+  xy: 215, 14
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+веко_лев
+  rotate: false
+  xy: 393, 2
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+веко_прав
+  rotate: false
+  xy: 549, 31
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+глаз_лев
+  rotate: false
+  xy: 543, 6
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+глаз_прав
+  rotate: true
+  xy: 449, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+голень_лев
+  rotate: false
+  xy: 382, 28
+  size: 28, 34
+  orig: 28, 67
+  offset: 0, 0
+  index: -1
+голень_прав
+  rotate: false
+  xy: 314, 25
+  size: 30, 37
+  orig: 30, 70
+  offset: 0, 0
+  index: -1
+голова
+  rotate: true
+  xy: 169, 12
+  size: 50, 44
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+зрачок_лев
+  rotate: true
+  xy: 246, 2
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+зрачок_прав
+  rotate: false
+  xy: 596, 46
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+исть_прав
+  rotate: true
+  xy: 511, 6
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+кисть_лев
+  rotate: true
+  xy: 360, 2
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+клык_лев
+  rotate: false
+  xy: 282, 2
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+клык_прав
+  rotate: true
+  xy: 567, 6
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+плечо_лев
+  rotate: true
+  xy: 517, 31
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+плечо_прав
+  rotate: false
+  xy: 417, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+предплечье_лев
+  rotate: false
+  xy: 322, 2
+  size: 36, 21
+  orig: 36, 21
+  offset: 0, 0
+  index: -1
+предплечье_прав
+  rotate: false
+  xy: 346, 26
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+стопа_лев
+  rotate: true
+  xy: 480, 3
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+стопа_прав
+  rotate: true
+  xy: 495, 4
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+тело
+  rotate: false
+  xy: 62, 6
+  size: 34, 56
+  orig: 36, 58
+  offset: 1, 1
+  index: -1
+уси_прав
+  rotate: true
+  xy: 98, 11
+  size: 51, 69
+  orig: 51, 69
+  offset: 0, 0
+  index: -1
+усик_прав
+  rotate: false
+  xy: 2, 2
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1

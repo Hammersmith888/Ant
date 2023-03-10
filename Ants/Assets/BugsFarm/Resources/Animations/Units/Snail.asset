@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d902df55738ae8488860c679249078a, type: 3}
+  m_Name: Snail
+  m_EditorClassIdentifier: 
+  _typeName: Snail
+  _animations:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 020000000300000004000000050000000e0000001e00000028000000
+    _keys: 020000000300000004000000050000000e0000001e00000028000000
+    _values:
+    - _referenceAsset: {fileID: 11400000, guid: 4ce05692bc63c3646aa14fd426963162,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 53a137a423e9b9a41b8331d4f52914a2,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 944739ab931c6a744b4213a892a0cfce,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 944739ab931c6a744b4213a892a0cfce,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: f5b9b8c12df68d149a7bdb5145d2ce91,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: f5b9b8c12df68d149a7bdb5145d2ce91,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: e69e2ff00cf8d164198e2782ab9f98b4,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 0

@@ -1,0 +1,27 @@
+
+Flower3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Цветок3_1
+  rotate: false
+  xy: 147, 31
+  size: 85, 55
+  orig: 181, 212
+  offset: 46, 13
+  index: -1
+Цветок3_2
+  rotate: true
+  xy: 147, 88
+  size: 116, 105
+  orig: 181, 212
+  offset: 26, 6
+  index: -1
+Цветок3_3
+  rotate: false
+  xy: 2, 2
+  size: 143, 202
+  orig: 181, 212
+  offset: 14, 0
+  index: -1

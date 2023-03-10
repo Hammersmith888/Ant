@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033bb33381c6cdc408957b1bcb3d6143, type: 3}
+  m_Name: 8 DigGroundStock
+  m_EditorClassIdentifier: 
+  type: 10
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 0
+  maxCount: 1
+  wiki: {fileID: 11400000, guid: 3a96e51c94a23c641b95e9e51a5b322b, type: 2}
+  prefab: {fileID: 8663199059584093574, guid: 7a4ec83c33eead54bb4151d9a20b9a10, type: 3}
+  upgrades: {fileID: 0}
+  _stages:
+    array: []

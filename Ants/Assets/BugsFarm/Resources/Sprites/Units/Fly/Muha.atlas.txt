@@ -1,0 +1,97 @@
+
+Muha.png
+size: 64,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye1
+  rotate: false
+  xy: 27, 2
+  size: 17, 23
+  orig: 19, 25
+  offset: 1, 1
+  index: -1
+eye2
+  rotate: false
+  xy: 40, 41
+  size: 16, 21
+  orig: 18, 23
+  offset: 1, 1
+  index: -1
+Голова
+  rotate: false
+  xy: 2, 2
+  size: 23, 23
+  orig: 25, 25
+  offset: 1, 1
+  index: -1
+Крыло1
+  rotate: false
+  xy: 2, 93
+  size: 47, 27
+  orig: 49, 29
+  offset: 1, 1
+  index: -1
+Крыло2
+  rotate: false
+  xy: 2, 27
+  size: 36, 35
+  orig: 38, 37
+  offset: 1, 1
+  index: -1
+Нога1
+  rotate: false
+  xy: 51, 26
+  size: 5, 13
+  orig: 7, 15
+  offset: 1, 1
+  index: -1
+Нога2
+  rotate: false
+  xy: 51, 83
+  size: 9, 10
+  orig: 11, 12
+  offset: 1, 1
+  index: -1
+Нога3
+  rotate: false
+  xy: 40, 27
+  size: 9, 12
+  orig: 11, 14
+  offset: 1, 1
+  index: -1
+Нога4
+  rotate: false
+  xy: 46, 14
+  size: 8, 10
+  orig: 10, 12
+  offset: 1, 1
+  index: -1
+Нога5
+  rotate: false
+  xy: 51, 67
+  size: 5, 14
+  orig: 7, 16
+  offset: 1, 1
+  index: -1
+Нога6
+  rotate: true
+  xy: 51, 107
+  size: 13, 11
+  orig: 15, 13
+  offset: 1, 1
+  index: -1
+Рот
+  rotate: false
+  xy: 51, 95
+  size: 10, 10
+  orig: 12, 12
+  offset: 1, 1
+  index: -1
+Тело
+  rotate: false
+  xy: 2, 64
+  size: 47, 27
+  orig: 49, 29
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,217 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d902df55738ae8488860c679249078a, type: 3}
+  m_Name: Worker
+  m_EditorClassIdentifier: 
+  _typeName: Worker
+  _animations:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 020000000100000010000000200000000b0000002d0000002e0000000300000004000000050000000e0000001e0000002800000019000000110000002f000000300000001f0000001d0000000f0000001c0000001200000013000000140000001a0000001b00000015000000160000001700000008000000090000000c0000000a0000000d00000018000000210000002200000023000000240000002500000026000000270000003400000035000000
+    _keys: 020000000100000010000000200000000b0000002d0000002e0000000300000004000000050000000e0000001e0000002800000019000000110000002f000000300000001f0000001d0000000f0000001c0000001200000013000000140000001a0000001b00000015000000160000001700000008000000090000000c0000000a0000000d00000018000000210000002200000023000000240000002500000026000000270000003400000035000000
+    _values:
+    - _referenceAsset: {fileID: 11400000, guid: 3d18e6c20ec606c4fa3b5c879c15c90c,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 2c368cc10e6af524c99887481670f143,
+        type: 2}
+      _timeScale: 1.25
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 3261ff970d5618e4d9a0dc7031e0f888,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: e7d975ab9f49b6449a2661bef0a5cce0,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 55eb20d1f81a8184c8b3d040dd13c588,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: de85b5670bab6024ca8fbdb91722e7bb,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: d36d11aa4d2c1d44e895f179e7ed7b27,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: be79f42b9ff46464f9677a600ff639ac,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: b5acef151005a5e419d8bf924d5117fe,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 78d35361eb85c2c42af7f052a2965235,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 8c33d26afbaa33e4b910413eec02e3d4,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 54654fe04db300641ab0a2ee41233a6e,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 0ba536c32b4ee7d49871d40662635e56,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: c8d40de69f924df40a228461e0cfbf12,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: c8d40de69f924df40a228461e0cfbf12,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: b834f44df57c6be49b667d63ce3fac99,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: c8d40de69f924df40a228461e0cfbf12,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 602fab520ebf59543aa2e3cb92ca9ea0,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: c8861220e31fbed419fd1ac5eacb816b,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 9794ccac939f28b4ca64ea9a545eeced,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 87fe612dcc062094bb1924c838968ace,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 7b2959c35241f774f86411a6ac936f64,
+        type: 2}
+      _timeScale: 2
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: a8595259adc09cf48b39e6aeb7e37ad5,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: a8a5ed081701bd14aab82084df7631f9,
+        type: 2}
+      _timeScale: 2
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: b20aba99b000b8a4181daec2f530a932,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: a36f1c5363b1c864596dfb9127fc5472,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: b20aba99b000b8a4181daec2f530a932,
+        type: 2}
+      _timeScale: 0.75
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: ee53665809c25e141b3f5262e1f266d9,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: b0165f404cf58b24e9fb8fcd694a00fc,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: a6bea7184639664429193904206a39f1,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 768551cc02220de4e8f6bc026f7cf490,
+        type: 2}
+      _timeScale: 2
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: e706e78ca412c874ea0ec08ddd79aab9,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 1cf207e135f2b734bb6e2788b7220582,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 0f178f5f4eefb1141a6ac57b11af614b,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: b0165f404cf58b24e9fb8fcd694a00fc,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 398fc5cb7fc264e4b95a320d954485cf,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 6b9da30b9f70d9449baca50ee034fe6f,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: a7ad0d64918d92e45bb69b4670471390,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: d50353b9d7d330e408d9399e46e25cd2,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: ef34011d823043a449203a8093e5db0a,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 737155593e15d6a4aae34cf62acfe882,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 05a6dd80b9fc81549a3e47afee2d8b61,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 37a44a77efa9ef4418ec26a73478cee4,
+        type: 2}
+      _timeScale: 0.5
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: e09a2b42bd4c5fe469ca664615e8b552,
+        type: 2}
+      _timeScale: 0.5
+      _isLoop: 0

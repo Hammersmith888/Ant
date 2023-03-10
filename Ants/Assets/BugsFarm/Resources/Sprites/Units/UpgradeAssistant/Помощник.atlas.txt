@@ -1,0 +1,125 @@
+
+Помощник.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Газеты
+  rotate: false
+  xy: 928, 156
+  size: 352, 354
+  orig: 354, 356
+  offset: 1, 1
+  index: -1
+Глаз правый
+  rotate: true
+  xy: 568, 4
+  size: 101, 203
+  orig: 103, 205
+  offset: 1, 1
+  index: -1
+Глазлевый
+  rotate: false
+  xy: 1696, 291
+  size: 201, 219
+  orig: 203, 221
+  offset: 1, 1
+  index: -1
+Голова
+  rotate: true
+  xy: 568, 107
+  size: 403, 358
+  orig: 405, 360
+  offset: 1, 1
+  index: -1
+Зрачек левый
+  rotate: false
+  xy: 1899, 412
+  size: 98, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
+Зрачек правый
+  rotate: false
+  xy: 1925, 217
+  size: 80, 80
+  orig: 82, 82
+  offset: 1, 1
+  index: -1
+Каска
+  rotate: true
+  xy: 1282, 179
+  size: 331, 204
+  orig: 333, 206
+  offset: 1, 1
+  index: -1
+Левая кисть
+  rotate: false
+  xy: 904, 9
+  size: 121, 96
+  orig: 123, 98
+  offset: 1, 1
+  index: -1
+Левое плечо
+  rotate: false
+  xy: 1797, 171
+  size: 126, 118
+  orig: 128, 120
+  offset: 1, 1
+  index: -1
+Левый локоть
+  rotate: true
+  xy: 1193, 2
+  size: 152, 120
+  orig: 154, 122
+  offset: 1, 1
+  index: -1
+Правая кисть
+  rotate: true
+  xy: 773, 13
+  size: 92, 129
+  orig: 94, 131
+  offset: 1, 1
+  index: -1
+Правый локоть
+  rotate: true
+  xy: 1027, 19
+  size: 135, 164
+  orig: 137, 166
+  offset: 1, 1
+  index: -1
+Слой 8
+  rotate: true
+  xy: 1521, 8
+  size: 211, 274
+  orig: 213, 276
+  offset: 1, 1
+  index: -1
+Туловище
+  rotate: true
+  xy: 2, 16
+  size: 494, 564
+  orig: 496, 566
+  offset: 1, 1
+  index: -1
+Усик левый
+  rotate: false
+  xy: 1488, 221
+  size: 206, 289
+  orig: 208, 291
+  offset: 1, 1
+  index: -1
+Усик правый
+  rotate: true
+  xy: 1315, 9
+  size: 168, 204
+  orig: 170, 206
+  offset: 1, 1
+  index: -1
+правое плечо
+  rotate: false
+  xy: 1899, 299
+  size: 78, 111
+  orig: 80, 113
+  offset: 1, 1
+  index: -1

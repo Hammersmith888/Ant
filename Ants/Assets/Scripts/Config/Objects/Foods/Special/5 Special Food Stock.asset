@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f623bc4c3fe46c4480a96774308a67d, type: 3}
+  m_Name: 5 Special Food Stock
+  m_EditorClassIdentifier: 
+  type: 8
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 0
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: 76ac7820d0d7f204ab8719fd61f3815e, type: 2}
+  prefab: {fileID: 3654859133084219500, guid: 1ea736dedd89ab145a381bc6b4b83f12, type: 3}
+  upgrades: {fileID: 0}
+  foodType: 8
+  isRestockable: 1
+  stages:
+  - quantity: 1500
+    sprite: {fileID: 21300000, guid: 7d5c4abf08ce3874c9f657f1c6f74296, type: 3}
+  - quantity: 1000
+    sprite: {fileID: 21300000, guid: 4823b774712d4a5469797de3f05b4a62, type: 3}
+  - quantity: 800
+    sprite: {fileID: 21300000, guid: b887653aca9760647a796f8a604fa4df, type: 3}
+  - quantity: 500
+    sprite: {fileID: 21300000, guid: a7e4cd1719f159b489a0c520f8f42bff, type: 3}
+  - quantity: 250
+    sprite: {fileID: 21300000, guid: 1ae2787c4c3cc59469cbc5d6e36cd3aa, type: 3}
+  - quantity: 150
+    sprite: {fileID: 21300000, guid: 8ebe3c2880ce95e4584f8f8b6cd476df, type: 3}
+  - quantity: 11
+    sprite: {fileID: 21300000, guid: 234ca89723ac8bf45b385c4047a71511, type: 3}
+  garbageAmount: 0

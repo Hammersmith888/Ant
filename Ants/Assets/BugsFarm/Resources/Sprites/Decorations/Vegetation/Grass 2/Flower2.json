@@ -1,0 +1,53 @@
+{
+"skeleton": {
+	"hash": "8tOPDagsv52hvQfE50a48LIvxWg",
+	"spine": "3.8.82",
+	"x": -56.5,
+	"y": -9,
+	"width": 133,
+	"height": 212,
+	"images": "",
+	"audio": ""
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Цветок2_1", "parent": "root", "length": 182.47, "rotation": 90.3, "x": -0.34, "y": 0.71 }
+],
+"slots": [
+	{ "name": "Цветок2_1", "bone": "Цветок2_1", "attachment": "Цветок2_1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Цветок2_1": {
+				"Цветок2_1": { "x": 96.24, "y": -10.85, "rotation": -90.3, "width": 133, "height": 212 },
+				"Цветок2_2": { "x": 96.24, "y": -10.85, "rotation": -90.3, "width": 133, "height": 212 },
+				"Цветок2_3": { "x": 96.24, "y": -10.85, "rotation": -90.3, "width": 133, "height": 212 }
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"slots": {
+			"Цветок2_1": {
+				"attachment": [
+					{ "name": "Цветок2_2" }
+				]
+			}
+		},
+		"bones": {
+			"Цветок2_1": {
+				"shear": [
+					{},
+					{ "time": 1.6667, "x": -2.63 },
+					{ "time": 3.3333 },
+					{ "time": 5, "x": 2.41 },
+					{ "time": 6.6667 }
+				]
+			}
+		}
+	}
+}
+}

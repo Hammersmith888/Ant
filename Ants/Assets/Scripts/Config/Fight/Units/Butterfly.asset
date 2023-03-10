@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04eee37475034354dbac8679bfed71db, type: 3}
+  m_Name: Butterfly
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 186430355875100649, guid: fca15f4a2ae025c4c8e64271a12c7d8a, type: 3}
+  animations: {fileID: 11400000, guid: bbe1f47231c09ec408dbed98f4d656fa, type: 2}
+  SpeedToAnimationTimeScaleMul: 0.4385965
+  Cooldown: 1.17
+  Speed: 5.7
+  expBase: 1.1
+  mulAttack: 1.4
+  mulHP: 20
+  Food: 0
+  XPprice: 0
+  HP_Range: {x: 20, y: 2000}
+  HP_C: 3
+  Attack_Range: {x: 3, y: 300}
+  Attack_C: 4

@@ -1,0 +1,62 @@
+
+chest1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Закрытая крышка
+  rotate: false
+  xy: 203, 2
+  size: 107, 62
+  orig: 107, 62
+  offset: 0, 0
+  index: -1
+Монеты
+  rotate: false
+  xy: 2, 10
+  size: 82, 37
+  orig: 84, 39
+  offset: 1, 1
+  index: -1
+Облачко
+  rotate: true
+  xy: 2, 49
+  size: 202, 199
+  orig: 204, 201
+  offset: 1, 1
+  index: -1
+Открыта крышка
+  rotate: false
+  xy: 312, 7
+  size: 102, 57
+  orig: 104, 59
+  offset: 1, 1
+  index: -1
+Полоски
+  rotate: false
+  xy: 203, 129
+  size: 257, 122
+  orig: 259, 124
+  offset: 1, 1
+  index: -1
+Свечение внутри
+  rotate: true
+  xy: 462, 103
+  size: 148, 136
+  orig: 150, 138
+  offset: 1, 1
+  index: -1
+Сетлячок
+  rotate: false
+  xy: 86, 30
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+низ сундука
+  rotate: false
+  xy: 203, 66
+  size: 129, 61
+  orig: 129, 61
+  offset: 0, 0
+  index: -1

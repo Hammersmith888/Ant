@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f623bc4c3fe46c4480a96774308a67d, type: 3}
+  m_Name: 13 Corn
+  m_EditorClassIdentifier: 
+  type: 8
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 900
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: fdfa46dff013f364f83f230d158e480a, type: 2}
+  prefab: {fileID: 3018753173393247731, guid: ac7fca2e2b1b8a849b63c3e9448aea59, type: 3}
+  upgrades: {fileID: 0}
+  foodType: 17
+  isRestockable: 0
+  stages:
+  - quantity: 345
+    sprite: {fileID: 21300000, guid: dd20b733e1e71264c960bd2e542744dd, type: 3}
+  - quantity: 230
+    sprite: {fileID: 21300000, guid: c07ad466c62998d4c9af2d6f642be414, type: 3}
+  - quantity: 115
+    sprite: {fileID: 21300000, guid: 663983b1a9d5cee4a80c778915bba61e, type: 3}
+  - quantity: 57
+    sprite: {fileID: 21300000, guid: 1bd9c13a2ee5e9a4fa36da6b6b4efefa, type: 3}
+  garbageAmount: 10

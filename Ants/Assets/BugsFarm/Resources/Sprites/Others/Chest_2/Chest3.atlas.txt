@@ -1,0 +1,83 @@
+
+Chest3.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Верхняя крышка
+  rotate: true
+  xy: 321, 69
+  size: 181, 107
+  orig: 183, 109
+  offset: 1, 1
+  index: -1
+Звездочка
+  rotate: false
+  xy: 78, 29
+  size: 8, 12
+  orig: 10, 14
+  offset: 1, 1
+  index: -1
+Летающий кристалл
+  rotate: false
+  xy: 601, 154
+  size: 95, 96
+  orig: 97, 98
+  offset: 1, 1
+  index: -1
+Листья слева
+  rotate: true
+  xy: 641, 65
+  size: 87, 85
+  orig: 89, 87
+  offset: 1, 1
+  index: -1
+Листья справа
+  rotate: true
+  xy: 698, 163
+  size: 87, 85
+  orig: 89, 87
+  offset: 1, 1
+  index: -1
+Наполнение
+  rotate: false
+  xy: 498, 16
+  size: 141, 63
+  orig: 143, 65
+  offset: 1, 1
+  index: -1
+Открытый сундук 3
+  rotate: true
+  xy: 211, 52
+  size: 198, 108
+  orig: 200, 110
+  offset: 1, 1
+  index: -1
+Полоса
+  rotate: false
+  xy: 2, 2
+  size: 494, 15
+  orig: 496, 17
+  offset: 1, 1
+  index: -1
+Свечение
+  rotate: false
+  xy: 2, 43
+  size: 207, 207
+  orig: 207, 207
+  offset: 0, 0
+  index: -1
+Свечение2
+  rotate: false
+  xy: 430, 81
+  size: 169, 169
+  orig: 169, 169
+  offset: 0, 0
+  index: -1
+полоска вверх
+  rotate: true
+  xy: 2, 19
+  size: 22, 74
+  orig: 22, 74
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f623bc4c3fe46c4480a96774308a67d, type: 3}
+  m_Name: 11 Cabbage
+  m_EditorClassIdentifier: 
+  type: 8
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 900
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: 19ad1f64c1b2aac4bbf5c3ef5d40daeb, type: 2}
+  prefab: {fileID: 3018753173393247731, guid: d8b1310a6bd898040866dc4b90836d22, type: 3}
+  upgrades: {fileID: 0}
+  foodType: 15
+  isRestockable: 0
+  stages:
+  - quantity: 345
+    sprite: {fileID: 21300000, guid: 2427920af564cfb4ca77192ea5885729, type: 3}
+  - quantity: 230
+    sprite: {fileID: 21300000, guid: 7a17ab8eaecd7c34ebd3fd2124ab7d89, type: 3}
+  - quantity: 115
+    sprite: {fileID: 21300000, guid: f1fccf5c119938b46b7d8fb0874d5653, type: 3}
+  - quantity: 57
+    sprite: {fileID: 21300000, guid: 5fba73c4c3b64f1439bc25692c5ed470, type: 3}
+  garbageAmount: 10

@@ -1,0 +1,220 @@
+{
+    "Items": [
+        {
+            "ModelID": "0",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "FallUnitTask",
+                "DeathUnitBootstrapTask",
+                "ConsumeUnitTask",
+                "HungryRest",
+                "SleepUnitBootstrapTask",
+                "PatrolingTask",
+                "TrainingArcherBootstrapTask",
+                "RestTask"
+            ],
+            "AssignTasks": [
+                "WakeUp",
+                "Train",
+                "Patrol"
+            ],
+            "IsAssignable": true
+        },
+        {
+            "ModelID": "1",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "FallUnitTask",
+                "DeathUnitBootstrapTask",
+                "ConsumeUnitTask",
+                "HungryRest",
+                "SleepUnitBootstrapTask",
+                "TrainingButterflyBootstrapTask",
+                "RestTask"
+            ],
+            "AssignTasks": [
+                "WakeUp",
+                "Train"
+            ],
+            "IsAssignable": true
+        },
+        {
+            "ModelID": "2",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "FallUnitTask",
+                "DeathUnitBootstrapTask",
+                "ConsumeUnitTask",
+                "HungryRest",
+                "SleepUnitBootstrapTask",
+                "TrainingHeavySquadBootstrapTask",
+                "RestTask"
+            ],
+            "AssignTasks": [
+                "WakeUp",
+                "Train"
+            ],
+            "IsAssignable": true
+        },
+        {
+            "ModelID": "3",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "FallUnitTask",
+                "DeathUnitBootstrapTask",
+                "ConsumeUnitTask",
+                "HungryRest",
+                "SleepUnitBootstrapTask",
+                "HospitalBootstrapTask",
+                "RestTask"
+            ],
+            "AssignTasks": [
+                "WakeUp",
+                "Train"
+            ],
+            "IsAssignable": true
+        },
+        {
+            "ModelID": "4",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "FallUnitTask",
+                "DeathUnitBootstrapTask",
+                "ConsumeUnitTask",
+                "HungryRest",
+                "SleepUnitBootstrapTask",
+                "PatrolingTask",
+                "TrainingPikemanBootstrapTask",
+                "PatrolBootstrapTask",
+                "RestTask"
+            ],
+            "AssignTasks": [
+                "WakeUp",
+                "Train",
+                "Patrol"
+            ],
+            "IsAssignable": true
+        },
+        {
+            "ModelID": "5",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "FallUnitTask",
+                "DeathUnitBootstrapTask",
+                "ConsumeUnitTask",
+                "HungryRest",
+                "SleepUnitBootstrapTask",
+                "TrainingHeavySquadBootstrapTask",
+                "RestTask"
+            ],
+            "AssignTasks": [
+                "WakeUp",
+                "Train"
+            ],
+            "IsAssignable": true
+        },
+        {
+            "ModelID": "6",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "FallUnitTask",
+                "DeathUnitBootstrapTask",
+                "ConsumeUnitTask",
+                "HungryRest",
+                "SleepUnitBootstrapTask",
+                "TrainingHeavySquadBootstrapTask",
+                "RestTask"
+            ],
+            "AssignTasks": [
+                "WakeUp",
+                "Train"
+            ],
+            "IsAssignable": true
+        },
+        {
+            "ModelID": "7",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "FallUnitTask",
+                "DeathUnitBootstrapTask",
+                "ConsumeUnitTask",
+                "HungryRest",
+                "SleepUnitBootstrapTask",
+                "PatrolingTask",
+                "TrainingSwordmanBootstrapTask",
+                "PatrolBootstrapTask",
+                "RestTask"
+            ],
+            "AssignTasks": [
+                "WakeUp",
+                "Train",
+                "Patrol"
+            ],
+            "IsAssignable": true
+        },
+        {
+            "ModelID": "8",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "FallUnitTask",
+                "DeathUnitBootstrapTask",
+                "ConsumeUnitTask",
+                "HungryRest",
+                "AddFeedQueenTask",
+                "SleepUnitBootstrapTask",
+                "BuildingBootstrapTask",
+                "GoldmineBootstrapTask",
+                "GardenCareTask",
+                "AddFightStockTask",
+                "AddDumpsterTask",
+                "AddGrabageStockTask",
+                "AddMudStockTask",
+                "GetRoomDigTask",
+                "AddVineBuildTask",
+                "AddHerbsStockTask",
+                "AddFoodStockTask",
+                "TrainingSwordmanBootstrapTask",
+                "TrainingHeavySquadBootstrapTask",
+                "TrainingPikemanBootstrapTask",
+                "RestTask"
+            ],
+            "AssignTasks": [
+                "WakeUp",
+                "Goldmine",
+                "Dig",
+                "Train"
+            ],
+            "IsAssignable": true
+        },
+        {
+            "ModelID": "9",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "AntLarvaGrowthTask",
+                "RestTask"
+            ],
+            "AssignTasks": [],
+            "IsAssignable": false
+        },
+        {
+            "ModelID": "10",
+            "Tasks": [
+                "SpawnUnitTask",
+                "SpawnFromAlphaTask",
+                "AddDealerFarmTask"
+            ],
+            "AssignTasks": [],
+            "IsAssignable": false
+        }
+    ]
+}

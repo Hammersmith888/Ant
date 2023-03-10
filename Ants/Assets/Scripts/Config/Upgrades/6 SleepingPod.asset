@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22fca61c929df4a4683e57baf932a535, type: 3}
+  m_Name: 6 SleepingPod
+  m_EditorClassIdentifier: 
+  showParam1: 1
+  showParam2: 0
+  showParam3: 0
+  labelParam1: "\u0421\u043F\u0430\u043B\u044C\u043D\u044B\u0445 \u043C\u0435\u0441\u0442"
+  labelParam2: 
+  labelParam3: 
+  levels:
+  - price: 250
+    minutes: 0
+    param1: 2
+    param2: 0
+    param3: 0
+  - price: 1000
+    minutes: 180
+    param1: 4
+    param2: 0
+    param3: 0
+  - price: 2500
+    minutes: 480
+    param1: 8
+    param2: 0
+    param3: 0

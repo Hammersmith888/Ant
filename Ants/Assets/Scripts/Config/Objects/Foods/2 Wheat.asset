@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f623bc4c3fe46c4480a96774308a67d, type: 3}
+  m_Name: 2 Wheat
+  m_EditorClassIdentifier: 
+  type: 8
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 90
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: 7e22b84e6d248a4458d16555dba5a357, type: 2}
+  prefab: {fileID: 5472428849585704073, guid: 348d52f7b3b2fb8409fcc412083ca568, type: 3}
+  upgrades: {fileID: 0}
+  foodType: 2
+  isRestockable: 0
+  stages:
+  - quantity: 40
+    sprite: {fileID: 21300000, guid: 4986715ffc06c3e4daf17de7f4b2698c, type: 3}
+  - quantity: 30
+    sprite: {fileID: 21300000, guid: 1a9244c5459855e44b8c4618f07145d7, type: 3}
+  - quantity: 20
+    sprite: {fileID: 21300000, guid: 9de5938fc8811744f83112e9f1793118, type: 3}
+  - quantity: 10
+    sprite: {fileID: 21300000, guid: bd89a197475cee240bd7f6d64c784ea5, type: 3}
+  garbageAmount: 3

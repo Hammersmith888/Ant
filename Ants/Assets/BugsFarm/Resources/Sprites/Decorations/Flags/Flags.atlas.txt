@@ -1,0 +1,34 @@
+
+Flags.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 492
+  rotate: false
+  xy: 2, 10
+  size: 206, 70
+  orig: 206, 70
+  offset: 0, 0
+  index: -1
+Layer 495
+  rotate: true
+  xy: 210, 2
+  size: 78, 172
+  orig: 78, 172
+  offset: 0, 0
+  index: -1
+Тряпка
+  rotate: true
+  xy: 543, 2
+  size: 78, 151
+  orig: 78, 151
+  offset: 0, 0
+  index: -1
+тряпка красная
+  rotate: true
+  xy: 384, 4
+  size: 76, 157
+  orig: 76, 157
+  offset: 0, 0
+  index: -1

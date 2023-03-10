@@ -1,0 +1,55 @@
+
+orangeAnt2.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 42
+  size: 21, 50
+  orig: 21, 50
+  offset: 0, 0
+  index: -1
+hand_l1
+  rotate: false
+  xy: 50, 53
+  size: 14, 14
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+hand_l2
+  rotate: false
+  xy: 50, 21
+  size: 11, 30
+  orig: 13, 32
+  offset: 1, 1
+  index: -1
+head
+  rotate: true
+  xy: 25, 69
+  size: 23, 41
+  orig: 25, 43
+  offset: 1, 1
+  index: -1
+leg_r1
+  rotate: true
+  xy: 50, 8
+  size: 11, 16
+  orig: 13, 18
+  offset: 1, 1
+  index: -1
+leg_r2
+  rotate: false
+  xy: 25, 43
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+sword
+  rotate: true
+  xy: 2, 2
+  size: 38, 46
+  orig: 40, 48
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,55 @@
+
+Веко.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Веко
+  rotate: true
+  xy: 231, 52
+  size: 31, 24
+  orig: 33, 26
+  offset: 1, 1
+  index: -1
+Голова
+  rotate: false
+  xy: 231, 85
+  size: 43, 62
+  orig: 45, 64
+  offset: 1, 1
+  index: -1
+Ножка задняя
+  rotate: false
+  xy: 16, 3
+  size: 10, 12
+  orig: 12, 14
+  offset: 1, 1
+  index: -1
+ножка1
+  rotate: false
+  xy: 2, 2
+  size: 12, 13
+  orig: 14, 15
+  offset: 1, 1
+  index: -1
+ножка2
+  rotate: false
+  xy: 231, 12
+  size: 14, 14
+  orig: 16, 16
+  offset: 1, 1
+  index: -1
+ножка3
+  rotate: true
+  xy: 231, 28
+  size: 22, 15
+  orig: 24, 17
+  offset: 1, 1
+  index: -1
+тело
+  rotate: false
+  xy: 2, 17
+  size: 227, 130
+  orig: 227, 131
+  offset: 0, 1
+  index: -1

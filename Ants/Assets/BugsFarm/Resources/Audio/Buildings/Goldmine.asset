@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd83bf3a19b140c7b15c326e608add11, type: 3}
+  m_Name: Goldmine
+  m_EditorClassIdentifier: 
+  _modelID: Goldmine
+  _audioClipsConverterList:
+  - {fileID: 8300000, guid: 91fe91d2008572549a370eec1ecb940e, type: 3}
+  - {fileID: 8300000, guid: 653b06e9a6851e24588538d22e9f7f99, type: 3}
+  - {fileID: 8300000, guid: 260c1e329120a9b4398976504668bf9d, type: 3}
+  _audioStorage:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - Lift
+    - Mattock1
+    - Mattock2
+    _keys:
+    - Lift
+    - Mattock1
+    - Mattock2
+    _values:
+    - Audio/Buildings/Clips/Goldmine_Lift
+    - Audio/Buildings/Clips/Goldmine_Mattock1
+    - Audio/Buildings/Clips/Goldmine_Mattock2

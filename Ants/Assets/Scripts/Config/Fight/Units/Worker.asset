@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04eee37475034354dbac8679bfed71db, type: 3}
+  m_Name: Worker
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 2229734309894752543, guid: a196497b3020edc4a8c886ff54a692d4, type: 3}
+  animations: {fileID: 11400000, guid: ee66bb3b7fd95074b8c6ebeadf393742, type: 2}
+  SpeedToAnimationTimeScaleMul: 1
+  Cooldown: 1.04
+  Speed: 5
+  expBase: 1.1
+  mulAttack: 0.8
+  mulHP: 10
+  Food: 10
+  XPprice: 0.376
+  HP_Range: {x: 10, y: 1000}
+  HP_C: 3
+  Attack_Range: {x: 1, y: 100}
+  Attack_C: 4

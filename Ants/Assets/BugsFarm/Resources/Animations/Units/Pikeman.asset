@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d902df55738ae8488860c679249078a, type: 3}
+  m_Name: Pikeman
+  m_EditorClassIdentifier: 
+  _typeName: Pikeman
+  _animations:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 01000000020000000300000004000000050000000e000000180000001a0000001b0000001e00000028000000290000001d0000001c0000000f000000
+    _keys: 01000000020000000300000004000000050000000e000000180000001a0000001b0000001e00000028000000290000001d0000001c0000000f000000
+    _values:
+    - _referenceAsset: {fileID: 11400000, guid: 7b9ef158e36d8364a988e74b7a12415b,
+        type: 2}
+      _timeScale: 1.25
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 7a04afcf4cf4ebe4680a9ab9a9e1a9a4,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 981950ed0ad20da428e9f9a1bd50c7e9,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: b651df8a1cebb9b4f9ab34d4bafd20a8,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: fc0ec16c95d31d84a9e14765d3ac3a10,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 6c3c35c247c35724fb8cdc06c78993b3,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 8860d11453b4e4a4c92a71c2be40c797,
+        type: 2}
+      _timeScale: 1.25
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 74e756f1b49ab4547bc508c29319a08d,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 07919e2f7d0eb34489ffbfbd8db64026,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: d66e1037a669cfd4c9af04913d80a7ff,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 18b55f5f05969be4eb3bc7905f20a94e,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: e09e5f0c71ca32d46b37c95fa37201b5,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: c918106b9b3e09043b6bea503321a537,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 3815e521ce84b8940bea5a370c5bc53d,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 3815e521ce84b8940bea5a370c5bc53d,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0

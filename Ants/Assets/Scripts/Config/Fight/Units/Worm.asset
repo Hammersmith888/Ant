@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04eee37475034354dbac8679bfed71db, type: 3}
+  m_Name: Worm
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3704014138151863335, guid: 0b3dd201101cbac4b9bcef81f26fa6b9, type: 3}
+  animations: {fileID: 11400000, guid: 5bf6638032d0bc848a0cfa4acd4bee62, type: 2}
+  SpeedToAnimationTimeScaleMul: 1.25
+  Cooldown: 0.91
+  Speed: 4
+  expBase: 1.1
+  mulAttack: 0.5
+  mulHP: 8
+  Food: 0
+  HP_Range: {x: 5, y: 500}
+  HP_C: 3
+  Attack_Range: {x: 1, y: 100}
+  Attack_C: 4

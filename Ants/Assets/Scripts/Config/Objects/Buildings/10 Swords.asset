@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033bb33381c6cdc408957b1bcb3d6143, type: 3}
+  m_Name: 10 Swords
+  m_EditorClassIdentifier: 
+  type: 14
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 0
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: e5290e5ab49b81848b06c0d052b5b224, type: 2}
+  prefab: {fileID: 7619338309760913635, guid: a197bf84aaeea0d41ab68087d0fd1bf4, type: 3}
+  upgrades: {fileID: 11400000, guid: 3978fc8575bd0e349b46537b7f61d479, type: 2}
+  _stages:
+    array: []

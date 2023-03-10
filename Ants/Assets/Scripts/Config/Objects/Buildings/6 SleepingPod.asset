@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033bb33381c6cdc408957b1bcb3d6143, type: 3}
+  m_Name: 6 SleepingPod
+  m_EditorClassIdentifier: 
+  type: 6
+  isBig: 0
+  price: 250
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: 529e48bc2ec7245438c51297ad2a77c5, type: 2}
+  prefab: {fileID: 7962405723004289950, guid: c4b063144402f2143ab4a085188c6fa8, type: 3}
+  upgrades: {fileID: 11400000, guid: 24213038c794bbc418660c2748c718b0, type: 2}

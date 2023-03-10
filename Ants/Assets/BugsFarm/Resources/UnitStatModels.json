@@ -1,0 +1,1241 @@
+{
+    "Items": [
+        {
+            "ModelID": "0",
+            "Stats": [
+                {
+                    "StatID": "stat_noNeedTimeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 55.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 80.0,
+                    "InitValue": 80.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 1050.0,
+                    "InitValue": 1050.0
+                },
+                {
+                    "StatID": "stat_consumeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 3.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 390.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 4320.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 4320.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_restTime",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.6600000262260437,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_hp",
+                    "StatType": "StatVital",
+                    "BaseValue": 20.0,
+                    "InitValue": 20.0
+                },
+                {
+                    "StatID": "stat_xp",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.2999999523162842,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackDamage",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 2.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_defence",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_movementSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_bornTime",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_level",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_ammountCarry",
+                    "StatType": "Stat",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                }
+            ]
+        },
+        {
+            "ModelID": "1",
+            "Stats": [
+                {
+                    "StatID": "stat_noNeedTimeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 40.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 30.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 960.0,
+                    "InitValue": 960.0
+                },
+                {
+                    "StatID": "stat_consumeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 3.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 3.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 480.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 2880.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 2880.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_restTime",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.5,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_hp",
+                    "StatType": "StatVital",
+                    "BaseValue": 15.0,
+                    "InitValue": 15.0
+                },
+                {
+                    "StatID": "stat_xp",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.2000000476837159,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackDamage",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_defence",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_movementSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_repeatSurfaceSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 4.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_bornTime",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_level",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_ammountCarry",
+                    "StatType": "Stat",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                }
+            ]
+        },
+        {
+            "ModelID": "2",
+            "Stats": [
+                {
+                    "StatID": "stat_noNeedTimeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 70.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 80.0,
+                    "InitValue": 80.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 1140.0,
+                    "InitValue": 1140.0
+                },
+                {
+                    "StatID": "stat_consumeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 4.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 300.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 2880.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 2880.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_restTime",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.4000000059604645,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_hp",
+                    "StatType": "StatVital",
+                    "BaseValue": 20.0,
+                    "InitValue": 20.0
+                },
+                {
+                    "StatID": "stat_xp",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.100000023841858,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackDamage",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 3.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_defence",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_movementSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_repeatSurfaceSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 4.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_bornTime",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_level",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_ammountCarry",
+                    "StatType": "Stat",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                }
+            ]
+        },
+        {
+            "ModelID": "3",
+            "Stats": [
+                {
+                    "StatID": "stat_noNeedTimeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 40.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 40.0,
+                    "InitValue": 40.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 1140.0,
+                    "InitValue": 1140.0
+                },
+                {
+                    "StatID": "stat_consumeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 2.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 3.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 300.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 5760.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 5760.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_restTime",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.5,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_hp",
+                    "StatType": "StatVital",
+                    "BaseValue": 12.0,
+                    "InitValue": 12.0
+                },
+                {
+                    "StatID": "stat_xp",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_healCoolDown",
+                    "StatType": "StatVital",
+                    "BaseValue": 1.100000023841858,
+                    "InitValue": 1.100000023841858
+                },
+                {
+                    "StatID": "stat_healAmmount",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.20000000298023225,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_defence",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_movementSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.699999988079071,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_repeatSurfaceSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 4.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_bornTime",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_level",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_entered",
+                    "StatType": "StatVital",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_ammountCarry",
+                    "StatType": "Stat",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                }
+            ]
+        },
+        {
+            "ModelID": "4",
+            "Stats": [
+                {
+                    "StatID": "stat_noNeedTimeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 45.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 80.0,
+                    "InitValue": 80.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 1050.0,
+                    "InitValue": 1050.0
+                },
+                {
+                    "StatID": "stat_consumeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 6.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 3.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 390.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 4320.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 4320.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_restTime",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.5799999833106995,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_hp",
+                    "StatType": "StatVital",
+                    "BaseValue": 30.0,
+                    "InitValue": 30.0
+                },
+                {
+                    "StatID": "stat_xp",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0399999618530274,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackDamage",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 3.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_defence",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_movementSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_bornTime",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_level",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_ammountCarry",
+                    "StatType": "Stat",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                }
+            ]
+        },
+        {
+            "ModelID": "5",
+            "Stats": [
+                {
+                    "StatID": "stat_noNeedTimeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 583.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 389.0,
+                    "InitValue": 389.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 1140.0,
+                    "InitValue": 1140.0
+                },
+                {
+                    "StatID": "stat_consumeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 4.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 300.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 20160.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 20160.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_restTime",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.699999988079071,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_hp",
+                    "StatType": "StatVital",
+                    "BaseValue": 50.0,
+                    "InitValue": 50.0
+                },
+                {
+                    "StatID": "stat_xp",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.559999942779541,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackDamage",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_defence",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_movementSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.30000001192092898,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_repeatSurfaceSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 4.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_bornTime",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_level",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_stage",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_ammountCarry",
+                    "StatType": "Stat",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                }
+            ]
+        },
+        {
+            "ModelID": "6",
+            "Stats": [
+                {
+                    "StatID": "stat_noNeedTimeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 4752.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 1584.0,
+                    "InitValue": 1584.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 1040.0,
+                    "InitValue": 1040.0
+                },
+                {
+                    "StatID": "stat_consumeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 6.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 2.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 400.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 14400.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 14400.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_restTime",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.5,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_hp",
+                    "StatType": "StatVital",
+                    "BaseValue": 40.0,
+                    "InitValue": 40.0
+                },
+                {
+                    "StatID": "stat_xp",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackDamage",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_defence",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_movementSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.2999999523162842,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_repeatSurfaceSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_bornTime",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_level",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_stage",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_ammountCarry",
+                    "StatType": "Stat",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                }
+            ]
+        },
+        {
+            "ModelID": "7",
+            "Stats": [
+                {
+                    "StatID": "stat_noNeedTimeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 35.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 50.0,
+                    "InitValue": 50.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 1050.0,
+                    "InitValue": 1050.0
+                },
+                {
+                    "StatID": "stat_consumeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 10.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 4.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 390.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 7200.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 7200.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_restTime",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.5,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_hp",
+                    "StatType": "StatVital",
+                    "BaseValue": 30.0,
+                    "InitValue": 30.0
+                },
+                {
+                    "StatID": "stat_xp",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.4299999475479127,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackDamage",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 4.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_defence",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_movementSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_bornTime",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_level",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_ammountCarry",
+                    "StatType": "Stat",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                }
+            ]
+        },
+        {
+            "ModelID": "8",
+            "Stats": [
+                {
+                    "StatID": "stat_noNeedTimeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 40.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 60.0,
+                    "InitValue": 60.0
+                },
+                {
+                    "StatID": "stat_noNeedTimeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 1050.0,
+                    "InitValue": 1050.0
+                },
+                {
+                    "StatID": "stat_consumeFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 3.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 2.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_consumeSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 390.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutFood",
+                    "StatType": "StatVital",
+                    "BaseValue": 2880.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutWater",
+                    "StatType": "StatVital",
+                    "BaseValue": 2880.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_timeWithoutSleep",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_restTime",
+                    "StatType": "StatVital",
+                    "BaseValue": 0.5,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_hp",
+                    "StatType": "StatVital",
+                    "BaseValue": 10.0,
+                    "InitValue": 10.0
+                },
+                {
+                    "StatID": "stat_xp",
+                    "StatType": "StatVital",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.4299999475479127,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_attackDamage",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_defence",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_movementSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_bornTime",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_level",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_ammountCarry",
+                    "StatType": "Stat",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                }
+            ]
+        },
+        {
+            "ModelID": "9",
+            "Stats": [
+                {
+                    "StatID": "stat_stage",
+                    "StatType": "StatVital",
+                    "BaseValue": 3.0,
+                    "InitValue": 3.0
+                },
+                {
+                    "StatID": "stat_growthTime",
+                    "StatType": "StatVital",
+                    "BaseValue": 1440.0,
+                    "InitValue": 1440.0
+                },
+                {
+                    "StatID": "stat_repeatSurfaceSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 1.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_bornTime",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_birthModelID",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                }
+            ]
+        },
+        {
+            "ModelID": "10",
+            "Stats": [
+                {
+                    "StatID": "stat_movementSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.800000011920929,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_repeatSurfaceSpeed",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 5.0,
+                    "InitValue": 0.0
+                },
+                {
+                    "StatID": "stat_activity",
+                    "StatType": "StatModifiable",
+                    "BaseValue": 0.0,
+                    "InitValue": 0.0
+                }
+            ]
+        }
+    ]
+}

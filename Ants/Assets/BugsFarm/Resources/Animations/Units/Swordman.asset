@@ -1,0 +1,97 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d902df55738ae8488860c679249078a, type: 3}
+  m_Name: Swordman
+  m_EditorClassIdentifier: 
+  _typeName: Swordman
+  _animations:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 01000000020000000300000005000000040000000e000000180000001a0000001e00000029000000280000001d0000001c0000000f000000
+    _keys: 01000000020000000300000005000000040000000e000000180000001a0000001e00000029000000280000001d0000001c0000000f000000
+    _values:
+    - _referenceAsset: {fileID: 11400000, guid: 7d43f62f5fda6b54095106a0c9e69a1f,
+        type: 2}
+      _timeScale: 1.25
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 1b0221feb02700a43b30b423f9e934cc,
+        type: 2}
+      _timeScale: 1.8
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 06984d3d6c5610143b7a6e056c93b9d7,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: 173df7d89f0929a40811f4e8d1a3ef70,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 9157942ebe6392c4984a0ce48d2eacd5,
+        type: 2}
+      _timeScale: 0.7
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 6f64d85ccabbe8f479b2e5978408505e,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 0264a16ea4129a142b4b39b5198ae769,
+        type: 2}
+      _timeScale: 1.25
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: b1e6450f92b5d764fb111fadff903e9d,
+        type: 2}
+      _timeScale: 1.25
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 3ea9529379f173d4692caf10bcd3ea07,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: e86ffe400f72fe64db1ccce2d1a120da,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 1
+    - _referenceAsset: {fileID: 11400000, guid: db669906052282c4c838d1841c577b6e,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 75f2ab080282f6c45a3abc2f600d9fde,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 539d65181bcfbc649abb5485c25bab06,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0
+    - _referenceAsset: {fileID: 11400000, guid: 539d65181bcfbc649abb5485c25bab06,
+        type: 2}
+      _timeScale: 1
+      _isLoop: 0

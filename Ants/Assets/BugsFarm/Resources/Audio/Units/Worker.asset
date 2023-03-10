@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd83bf3a19b140c7b15c326e608add11, type: 3}
+  m_Name: Worker
+  m_EditorClassIdentifier: 
+  _modelID: Worker
+  _audioClipsConverterList:
+  - {fileID: 8300000, guid: 67fe02194f6e86946af0ce4b8441470d, type: 3}
+  - {fileID: 8300000, guid: 12a77962c3d7b7c48b3c4113e805deb2, type: 3}
+  - {fileID: 8300000, guid: acae862f19518944bb4b0582455d4005, type: 3}
+  - {fileID: 8300000, guid: b3cc0ef455028ba4ebf158512cd101f0, type: 3}
+  - {fileID: 8300000, guid: ea66563dcedf5354ab9579daeb5eee51, type: 3}
+  - {fileID: 8300000, guid: cc22f71bb892acb4bb8f7be356deb425, type: 3}
+  - {fileID: 8300000, guid: d3eb85fa3099dd04c82bca31b3072b17, type: 3}
+  - {fileID: 8300000, guid: 778b7a03323586b43ad82a21e166a913, type: 3}
+  - {fileID: 8300000, guid: 23c3fd9088e60274bb01f3c762be7355, type: 3}
+  - {fileID: 8300000, guid: fcf5ad7812f09c54ebb76fe661c323f4, type: 3}
+  - {fileID: 8300000, guid: 7bfee2db546a3684db6557b4991f93b7, type: 3}
+  - {fileID: 8300000, guid: ce2fe35d14ec71640a486bf8c58eb8a0, type: 3}
+  _audioStorage:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues:
+    - ConsumeFood1
+    - ConsumeFood2
+    - Hammer
+    - MudThrow1
+    - MudThrow2
+    - Pickaxe1
+    - Pickaxe2
+    - Pickaxe3
+    - RoomDig1
+    - RoomDig2
+    - RoomDig3
+    - Saw
+    _keys:
+    - ConsumeFood1
+    - ConsumeFood2
+    - Hammer
+    - MudThrow1
+    - MudThrow2
+    - Pickaxe1
+    - Pickaxe2
+    - Pickaxe3
+    - RoomDig1
+    - RoomDig2
+    - RoomDig3
+    - Saw
+    _values:
+    - Audio/Units/Farm/Units_ConsumeFood1
+    - Audio/Units/Farm/Units_ConsumeFood2
+    - Audio/Units/Farm/Worker_Hammer
+    - Audio/Units/Farm/Worker_MudThrow1
+    - Audio/Units/Farm/Worker_MudThrow2
+    - Audio/Units/Farm/Worker_Pickaxe1
+    - Audio/Units/Farm/Worker_Pickaxe2
+    - Audio/Units/Farm/Worker_Pickaxe3
+    - Audio/Units/Farm/Worker_RoomDig1
+    - Audio/Units/Farm/Worker_RoomDig2
+    - Audio/Units/Farm/Worker_RoomDig3
+    - Audio/Units/Farm/Worker_Saw

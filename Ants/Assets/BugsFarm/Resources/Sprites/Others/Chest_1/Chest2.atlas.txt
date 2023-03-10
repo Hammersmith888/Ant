@@ -1,0 +1,62 @@
+
+Chest2.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Задняя крышка
+  rotate: false
+  xy: 209, 2
+  size: 188, 101
+  orig: 190, 103
+  offset: 1, 1
+  index: -1
+Закрытая крышка
+  rotate: false
+  xy: 2, 5
+  size: 205, 98
+  orig: 205, 98
+  offset: 0, 0
+  index: -1
+Звездочка1
+  rotate: true
+  xy: 425, 14
+  size: 14, 13
+  orig: 16, 15
+  offset: 1, 1
+  index: -1
+Звездочка2
+  rotate: false
+  xy: 399, 4
+  size: 24, 24
+  orig: 26, 26
+  offset: 1, 1
+  index: -1
+Монеты
+  rotate: false
+  xy: 399, 30
+  size: 161, 73
+  orig: 161, 73
+  offset: 0, 0
+  index: -1
+Нижняя часть1
+  rotate: true
+  xy: 1064, 238
+  size: 265, 219
+  orig: 267, 221
+  offset: 1, 1
+  index: -1
+Полоски
+  rotate: false
+  xy: 2, 105
+  size: 761, 398
+  orig: 761, 398
+  offset: 0, 0
+  index: -1
+Свет
+  rotate: false
+  xy: 765, 206
+  size: 297, 297
+  orig: 297, 297
+  offset: 0, 0
+  index: -1

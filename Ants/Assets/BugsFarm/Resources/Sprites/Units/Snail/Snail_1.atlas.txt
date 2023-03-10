@@ -1,0 +1,48 @@
+
+Snail_1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Веки
+  rotate: true
+  xy: 201, 52
+  size: 74, 42
+  orig: 76, 44
+  offset: 1, 1
+  index: -1
+Глаза
+  rotate: false
+  xy: 227, 11
+  size: 68, 39
+  orig: 70, 41
+  offset: 1, 1
+  index: -1
+Зрачки
+  rotate: true
+  xy: 201, 2
+  size: 48, 24
+  orig: 50, 26
+  offset: 1, 1
+  index: -1
+Панцерь
+  rotate: true
+  xy: 2, 2
+  size: 124, 114
+  orig: 126, 116
+  offset: 1, 1
+  index: -1
+Туловище
+  rotate: true
+  xy: 118, 2
+  size: 124, 81
+  orig: 124, 81
+  offset: 0, 0
+  index: -1
+Усики для глаз
+  rotate: true
+  xy: 245, 87
+  size: 39, 27
+  orig: 41, 29
+  offset: 1, 1
+  index: -1

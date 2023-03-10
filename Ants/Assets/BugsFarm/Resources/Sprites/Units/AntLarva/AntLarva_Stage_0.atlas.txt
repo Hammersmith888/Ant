@@ -1,0 +1,41 @@
+
+AntLarva_Stage_0.png
+size: 128,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Веки закрытые
+  rotate: true
+  xy: 66, 76
+  size: 48, 21
+  orig: 50, 23
+  offset: 1, 1
+  index: -1
+Голова
+  rotate: false
+  xy: 2, 2
+  size: 48, 32
+  orig: 50, 34
+  offset: 1, 1
+  index: -1
+Кокон
+  rotate: false
+  xy: 2, 36
+  size: 62, 88
+  orig: 64, 90
+  offset: 1, 1
+  index: -1
+Усик правый
+  rotate: true
+  xy: 66, 46
+  size: 28, 17
+  orig: 30, 19
+  offset: 1, 1
+  index: -1
+усик левый
+  rotate: true
+  xy: 52, 3
+  size: 31, 16
+  orig: 33, 18
+  offset: 1, 1
+  index: -1

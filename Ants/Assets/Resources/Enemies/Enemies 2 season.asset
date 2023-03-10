@@ -1,0 +1,1051 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17d817734ba82894e946f46a3426602f, type: 3}
+  m_Name: Enemies 2 season
+  m_EditorClassIdentifier: 
+  roomsConfig:
+    reorderableList:
+      canAdd: 1
+      canRemove: 1
+      draggable: 1
+      expandable: 1
+      multipleSelection: 1
+      isExpanded: 1
+      label:
+        m_Text: Keys
+        m_Image: {fileID: 0}
+        m_Tooltip: 
+      headerHeight: 18
+      footerHeight: 13
+      slideEasing: 0.15
+      verticalSpacing: 2
+      showDefaultBackground: 1
+      elementDisplayType: 0
+      elementNameProperty: 
+      elementNameOverride: 
+      elementIcon: {fileID: 0}
+    reqReferences: {fileID: 0}
+    isExpanded: 1
+    _keyValues: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000
+    _keys: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000460000004700000048000000490000004a0000004b0000004c0000004d0000004e0000004f000000500000005100000052000000530000005400000055000000560000005700000058000000590000005a0000005b0000005c0000005d0000005e0000005f000000600000006100000062000000630000006400000065000000660000006700000068000000
+    _values:
+    - enemies:
+      - type: 9
+        level: 1
+      reward_Coins: 5
+      reward_Crystals: 0
+    - enemies:
+      - type: 13
+        level: 3
+      reward_Coins: 8
+      reward_Crystals: 0
+    - enemies:
+      - type: 14
+        level: 1
+      reward_Coins: 10
+      reward_Crystals: 0
+    - enemies:
+      - type: 16
+        level: 5
+      reward_Coins: 15
+      reward_Crystals: 0
+    - enemies:
+      - type: 15
+        level: 1
+      reward_Coins: 15
+      reward_Crystals: 0
+    - enemies:
+      - type: 11
+        level: 1
+      reward_Coins: 20
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 1
+      - type: 8
+        level: 1
+      reward_Coins: 25
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 5
+      - type: 8
+        level: 1
+      reward_Coins: 25
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 1
+      - type: 9
+        level: 3
+      - type: 8
+        level: 2
+      reward_Coins: 30
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 8
+      reward_Coins: 0
+      reward_Crystals: 1
+    - enemies:
+      - type: 9
+        level: 3
+      - type: 8
+        level: 2
+      - type: 9
+        level: 2
+      reward_Coins: 35
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 2
+      - type: 10
+        level: 2
+      reward_Coins: 40
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 9
+      reward_Coins: 45
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 4
+      reward_Coins: 50
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 2
+      - type: 9
+        level: 4
+      - type: 9
+        level: 6
+      - type: 9
+        level: 4
+      reward_Coins: 50
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 3
+      - type: 9
+        level: 6
+      reward_Coins: 55
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 3
+      reward_Coins: 60
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 1
+      - type: 10
+        level: 1
+      - type: 8
+        level: 1
+      reward_Coins: 65
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 7
+      - type: 9
+        level: 3
+      - type: 9
+        level: 7
+      reward_Coins: 70
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 2
+      - type: 8
+        level: 3
+      reward_Coins: 0
+      reward_Crystals: 1
+    - enemies:
+      - type: 11
+        level: 1
+      reward_Coins: 0
+      reward_Crystals: 1
+    - enemies:
+      - type: 10
+        level: 2
+      - type: 9
+        level: 5
+      - type: 9
+        level: 5
+      reward_Coins: 80
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 4
+      - type: 8
+        level: 1
+      - type: 9
+        level: 4
+      reward_Coins: 85
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 4
+      reward_Coins: 90
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 1
+      - type: 9
+        level: 3
+      - type: 9
+        level: 6
+      - type: 9
+        level: 5
+      - type: 8
+        level: 1
+      reward_Coins: 95
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 3
+      - type: 9
+        level: 4
+      - type: 9
+        level: 5
+      - type: 10
+        level: 1
+      reward_Coins: 100
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 6
+      - type: 8
+        level: 2
+      - type: 9
+        level: 4
+      - type: 8
+        level: 1
+      - type: 8
+        level: 2
+      reward_Coins: 110
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 13
+      reward_Coins: 110
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 3
+      - type: 9
+        level: 7
+      - type: 10
+        level: 2
+      reward_Coins: 120
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 6
+      - type: 8
+        level: 1
+      - type: 8
+        level: 4
+      - type: 10
+        level: 1
+      reward_Coins: 120
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 3
+      - type: 8
+        level: 4
+      - type: 8
+        level: 3
+      reward_Coins: 0
+      reward_Crystals: 1
+    - enemies:
+      - type: 9
+        level: 10
+      - type: 9
+        level: 11
+      reward_Coins: 140
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 3
+      - type: 8
+        level: 4
+      - type: 10
+        level: 2
+      reward_Coins: 140
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 2
+      - type: 10
+        level: 3
+      - type: 8
+        level: 3
+      reward_Coins: 150
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 8
+      reward_Coins: 160
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 3
+      - type: 9
+        level: 7
+      - type: 8
+        level: 3
+      - type: 9
+        level: 6
+      - type: 8
+        level: 1
+      reward_Coins: 160
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 11
+      - type: 9
+        level: 12
+      reward_Coins: 170
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 7
+      - type: 10
+        level: 2
+      - type: 9
+        level: 5
+      - type: 9
+        level: 5
+      - type: 8
+        level: 3
+      - type: 9
+        level: 4
+      reward_Coins: 180
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 9
+      - type: 10
+        level: 2
+      - type: 8
+        level: 2
+      - type: 9
+        level: 8
+      - type: 8
+        level: 1
+      reward_Coins: 190
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 11
+      - type: 9
+        level: 13
+      reward_Coins: 190
+      reward_Crystals: 0
+    - enemies:
+      - type: 11
+        level: 1
+      reward_Coins: 0
+      reward_Crystals: 1
+    - enemies:
+      - type: 9
+        level: 7
+      - type: 8
+        level: 1
+      - type: 9
+        level: 8
+      - type: 9
+        level: 10
+      - type: 10
+        level: 2
+      reward_Coins: 0
+      reward_Crystals: 1
+    - enemies:
+      - type: 9
+        level: 16
+      reward_Coins: 210
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 4
+      - type: 8
+        level: 3
+      - type: 10
+        level: 3
+      - type: 10
+        level: 2
+      reward_Coins: 220
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 4
+      - type: 8
+        level: 5
+      - type: 10
+        level: 2
+      reward_Coins: 230
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 2
+      - type: 10
+        level: 3
+      - type: 10
+        level: 5
+      reward_Coins: 240
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 6
+      - type: 9
+        level: 7
+      - type: 8
+        level: 1
+      - type: 10
+        level: 2
+      - type: 10
+        level: 3
+      - type: 10
+        level: 2
+      reward_Coins: 250
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 11
+      - type: 8
+        level: 4
+      - type: 8
+        level: 3
+      - type: 9
+        level: 11
+      reward_Coins: 260
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 12
+      - type: 8
+        level: 5
+      - type: 9
+        level: 12
+      reward_Coins: 270
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 5
+      - type: 8
+        level: 8
+      reward_Coins: 280
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 3
+      - type: 9
+        level: 7
+      - type: 8
+        level: 4
+      - type: 10
+        level: 1
+      - type: 10
+        level: 1
+      - type: 8
+        level: 4
+      reward_Coins: 290
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 1
+      - type: 8
+        level: 5
+      - type: 8
+        level: 3
+      - type: 8
+        level: 3
+      - type: 8
+        level: 4
+      - type: 9
+        level: 8
+      reward_Coins: 300
+      reward_Crystals: 2
+    - enemies:
+      - type: 9
+        level: 18
+      reward_Coins: 310
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 16
+      - type: 9
+        level: 13
+      reward_Coins: 320
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 14
+      - type: 10
+        level: 7
+      reward_Coins: 330
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 3
+      - type: 8
+        level: 8
+      - type: 10
+        level: 5
+      reward_Coins: 340
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 5
+      - type: 8
+        level: 4
+      - type: 9
+        level: 14
+      - type: 10
+        level: 3
+      reward_Coins: 360
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 6
+      - type: 10
+        level: 7
+      reward_Coins: 370
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 2
+      - type: 10
+        level: 4
+      - type: 10
+        level: 1
+      - type: 8
+        level: 7
+      - type: 10
+        level: 4
+      reward_Coins: 380
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 8
+      - type: 9
+        level: 11
+      - type: 8
+        level: 2
+      - type: 9
+        level: 8
+      - type: 8
+        level: 6
+      - type: 9
+        level: 12
+      reward_Coins: 400
+      reward_Crystals: 0
+    - enemies:
+      - type: 11
+        level: 0
+      reward_Coins: 0
+      reward_Crystals: 1
+    - enemies:
+      - type: 10
+        level: 1
+      - type: 9
+        level: 12
+      - type: 10
+        level: 5
+      - type: 8
+        level: 7
+      - type: 8
+        level: 4
+      reward_Coins: 410
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 2
+      - type: 8
+        level: 5
+      - type: 9
+        level: 11
+      - type: 10
+        level: 4
+      - type: 9
+        level: 10
+      - type: 9
+        level: 8
+      reward_Coins: 0
+      reward_Crystals: 3
+    - enemies:
+      - type: 8
+        level: 7
+      - type: 8
+        level: 7
+      - type: 9
+        level: 15
+      reward_Coins: 440
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 5
+      - type: 10
+        level: 5
+      - type: 8
+        level: 3
+      - type: 10
+        level: 1
+      - type: 10
+        level: 5
+      reward_Coins: 450
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 3
+      - type: 9
+        level: 9
+      - type: 10
+        level: 5
+      - type: 10
+        level: 4
+      - type: 9
+        level: 11
+      - type: 9
+        level: 10
+      reward_Coins: 470
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 7
+      - type: 10
+        level: 7
+      - type: 10
+        level: 6
+      reward_Coins: 480
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 11
+      - type: 9
+        level: 14
+      - type: 9
+        level: 13
+      - type: 9
+        level: 11
+      - type: 9
+        level: 12
+      reward_Coins: 500
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 5
+      - type: 10
+        level: 6
+      - type: 8
+        level: 8
+      - type: 9
+        level: 13
+      reward_Coins: 520
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 4
+      - type: 8
+        level: 5
+      - type: 8
+        level: 7
+      - type: 8
+        level: 4
+      - type: 10
+        level: 3
+      - type: 9
+        level: 12
+      reward_Coins: 540
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 9
+      - type: 8
+        level: 7
+      - type: 10
+        level: 3
+      - type: 8
+        level: 9
+      reward_Coins: 550
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 18
+      - type: 8
+        level: 9
+      - type: 10
+        level: 6
+      reward_Coins: 570
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 18
+      - type: 8
+        level: 7
+      - type: 9
+        level: 16
+      reward_Coins: 0
+      reward_Crystals: 4
+    - enemies:
+      - type: 10
+        level: 3
+      - type: 10
+        level: 5
+      - type: 9
+        level: 14
+      - type: 10
+        level: 3
+      - type: 10
+        level: 2
+      - type: 10
+        level: 6
+      reward_Coins: 610
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 6
+      - type: 10
+        level: 7
+      - type: 9
+        level: 17
+      reward_Coins: 630
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 11
+      - type: 8
+        level: 9
+      - type: 9
+        level: 15
+      reward_Coins: 650
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 7
+      - type: 10
+        level: 4
+      - type: 8
+        level: 6
+      - type: 10
+        level: 7
+      - type: 9
+        level: 14
+      reward_Coins: 670
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 8
+      - type: 9
+        level: 20
+      reward_Coins: 690
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 13
+      reward_Coins: 720
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 16
+      - type: 8
+        level: 11
+      - type: 8
+        level: 8
+      - type: 8
+        level: 9
+      reward_Coins: 740
+      reward_Crystals: 0
+    - enemies:
+      - type: 11
+        level: 1
+      reward_Coins: 0
+      reward_Crystals: 1
+    - enemies:
+      - type: 10
+        level: 9
+      - type: 9
+        level: 20
+      reward_Coins: 760
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 5
+      - type: 8
+        level: 9
+      - type: 10
+        level: 6
+      - type: 9
+        level: 16
+      - type: 8
+        level: 7
+      reward_Coins: 790
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 8
+      - type: 10
+        level: 6
+      - type: 9
+        level: 16
+      - type: 8
+        level: 9
+      - type: 8
+        level: 8
+      reward_Coins: 0
+      reward_Crystals: 6
+    - enemies:
+      - type: 8
+        level: 12
+      - type: 9
+        level: 17
+      - type: 8
+        level: 8
+      - type: 10
+        level: 5
+      reward_Coins: 840
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 17
+      reward_Coins: 860
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 8
+      - type: 9
+        level: 19
+      - type: 8
+        level: 8
+      - type: 10
+        level: 9
+      reward_Coins: 890
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 18
+      - type: 9
+        level: 18
+      - type: 8
+        level: 9
+      - type: 9
+        level: 17
+      reward_Coins: 920
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 7
+      - type: 8
+        level: 9
+      - type: 10
+        level: 4
+      - type: 10
+        level: 7
+      - type: 10
+        level: 6
+      - type: 9
+        level: 13
+      reward_Coins: 950
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 18
+      - type: 8
+        level: 13
+      - type: 9
+        level: 16
+      - type: 8
+        level: 9
+      reward_Coins: 980
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 8
+      - type: 9
+        level: 14
+      - type: 8
+        level: 9
+      - type: 10
+        level: 5
+      - type: 10
+        level: 5
+      - type: 10
+        level: 8
+      reward_Coins: 1000
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 9
+      - type: 8
+        level: 10
+      - type: 8
+        level: 7
+      - type: 9
+        level: 16
+      - type: 8
+        level: 9
+      - type: 8
+        level: 8
+      reward_Coins: 1050
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 15
+      - type: 8
+        level: 9
+      - type: 8
+        level: 7
+      - type: 8
+        level: 11
+      - type: 10
+        level: 7
+      - type: 8
+        level: 10
+      reward_Coins: 1050
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 22
+      - type: 8
+        level: 16
+      reward_Coins: 0
+      reward_Crystals: 8
+    - enemies:
+      - type: 9
+        level: 15
+      - type: 9
+        level: 14
+      - type: 8
+        level: 11
+      - type: 8
+        level: 9
+      - type: 8
+        level: 10
+      - type: 9
+        level: 17
+      reward_Coins: 1150
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 19
+      reward_Coins: 1150
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 22
+      - type: 10
+        level: 14
+      reward_Coins: 1200
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 17
+      - type: 10
+        level: 6
+      - type: 8
+        level: 10
+      - type: 9
+        level: 18
+      - type: 8
+        level: 11
+      - type: 8
+        level: 10
+      reward_Coins: 1250
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 16
+      - type: 10
+        level: 9
+      - type: 8
+        level: 11
+      - type: 9
+        level: 17
+      - type: 8
+        level: 9
+      - type: 8
+        level: 10
+      reward_Coins: 1300
+      reward_Crystals: 0
+    - enemies:
+      - type: 9
+        level: 18
+      - type: 10
+        level: 10
+      - type: 8
+        level: 11
+      - type: 9
+        level: 21
+      reward_Coins: 1300
+      reward_Crystals: 0
+    - enemies:
+      - type: 11
+        level: 1
+      reward_Coins: 0
+      reward_Crystals: 1
+    - enemies:
+      - type: 10
+        level: 9
+      - type: 10
+        level: 7
+      - type: 8
+        level: 11
+      - type: 9
+        level: 20
+      - type: 10
+        level: 8
+      reward_Coins: 1350
+      reward_Crystals: 0
+    - enemies:
+      - type: 10
+        level: 11
+      - type: 10
+        level: 7
+      - type: 8
+        level: 12
+      - type: 8
+        level: 11
+      - type: 9
+        level: 17
+      reward_Coins: 1400
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 10
+      - type: 9
+        level: 21
+      - type: 10
+        level: 9
+      - type: 8
+        level: 13
+      - type: 10
+        level: 8
+      reward_Coins: 1450
+      reward_Crystals: 0
+    - enemies:
+      - type: 8
+        level: 11
+      - type: 8
+        level: 10
+      - type: 8
+        level: 11
+      - type: 10
+        level: 8
+      - type: 10
+        level: 9
+      - type: 10
+        level: 9
+      reward_Coins: 1500
+      reward_Crystals: 10

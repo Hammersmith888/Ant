@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f623bc4c3fe46c4480a96774308a67d, type: 3}
+  m_Name: _Locked Food 50
+  m_EditorClassIdentifier: 
+  type: 8
+  isBig: 0
+  isLocked: 1
+  unlocksAfter: 50
+  price: 0
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: 9ca5e2837d635634b94dd0917e67a439, type: 2}
+  prefab: {fileID: 0}
+  upgrades: {fileID: 0}
+  foodType: 0
+  isRestockable: 0
+  stages: []
+  garbageAmount: 0

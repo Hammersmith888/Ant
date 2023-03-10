@@ -1,0 +1,56 @@
+{
+  "Items": [
+    {
+      "ModelId": 0,
+      "Type": 0
+    },
+    {
+      "ModelId": 1,
+      "Type": 0
+    },
+    {
+      "ModelId": 2,
+      "Type": 0
+    },
+    {
+      "ModelId": 3,
+      "Type": 1
+    },
+    {
+      "ModelId": 4,
+      "Type": 1
+    },
+    {
+      "ModelId": 5,
+      "Type": 2
+    },
+    {
+      "ModelId": 6,
+      "Type": 2
+    },
+    {
+      "ModelId": 7,
+      "Type": 1
+    },
+    {
+      "ModelId": 8,
+      "Type": 1
+    },
+    {
+      "ModelId": 9,
+      "Type": 0
+    },
+    {
+      "ModelId": 10,
+      "Type": 0
+    },
+    {
+      "ModelId": 11,
+      "Type": 0
+    },
+    {
+      "ModelId": 12,
+      "Type": 0
+    }
+  ]
+}

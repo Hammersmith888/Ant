@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f623bc4c3fe46c4480a96774308a67d, type: 3}
+  m_Name: 15 Potato
+  m_EditorClassIdentifier: 
+  type: 8
+  isBig: 0
+  isLocked: 0
+  unlocksAfter: 0
+  price: 900
+  maxCount: 0
+  wiki: {fileID: 11400000, guid: fd68edb870c565b4ba681adca6abaaf9, type: 2}
+  prefab: {fileID: 3018753173393247731, guid: 34aec2f860d23e24c881af2fc3f1aa7c, type: 3}
+  upgrades: {fileID: 0}
+  foodType: 19
+  isRestockable: 0
+  stages:
+  - quantity: 345
+    sprite: {fileID: 21300000, guid: d84d42ad1de28a840be0ae4557e2ee21, type: 3}
+  - quantity: 230
+    sprite: {fileID: 21300000, guid: eec4eea6dc84a784097ce038a582d5d0, type: 3}
+  - quantity: 115
+    sprite: {fileID: 21300000, guid: 2bfaf5ac9a453a743a33e411b9e09177, type: 3}
+  - quantity: 57
+    sprite: {fileID: 21300000, guid: 62dd02ed766769a4f88d9475a7e88752, type: 3}
+  garbageAmount: 10
